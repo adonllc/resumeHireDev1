@@ -1,0 +1,1 @@
+<?php echo $this->Form->input('Job.subcategory_id', array('type' => 'select','empty' => __d('user', 'Select Job Sub Category', true), 'options' => $subcategories, 'label' => false, 'div' => false,'class' => "search_input" ));  ?> 

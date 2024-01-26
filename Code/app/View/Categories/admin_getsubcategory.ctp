@@ -1,0 +1,1 @@
+<?php echo $this->Form->select('Product.subcategory_id',$subcatlist, array('multiple'=>true,'class' => "full-width required",'empty'=>'Select Sub Category')); ?>

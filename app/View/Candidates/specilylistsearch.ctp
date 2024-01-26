@@ -1,0 +1,1 @@
+ <?php echo $this->Form->select('User.basic_specialization_id', $basicspecializationList, array('empty' => 'Select Specialization','class' => "search_input")); ?>

@@ -1,0 +1,1 @@
+<?php echo $this->Form->select($modal.'.city_id', $cityList, array('empty' => 'Select City', 'label' => '', 'div' => false, 'class' => "form-control " . $required)); ?>

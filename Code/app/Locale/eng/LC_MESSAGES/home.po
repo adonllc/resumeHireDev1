@@ -1,0 +1,519 @@
+msgid "Over 7 million jobs"
+msgstr "Over 7 million jobs"
+
+msgid "More than 20,000 locations"
+msgstr "More than 20,000 locations"
+
+msgid "Easy to apply online"
+msgstr "Easy to apply online"
+
+msgid "Jobs Search By Keyword"
+msgstr "Jobs Search By Keyword"
+
+msgid "Category you choose"
+msgstr "Category you choose"
+
+msgid "Location you want"
+msgstr "Location you want"
+
+msgid "Best Place To Find The Companies"
+msgstr "Best Place To Find The Companies"
+
+msgid "No record found"
+msgstr "No record found"
+
+msgid "Latest Jobs"
+msgstr "Latest Jobs"
+
+msgid "Recent Jobseeker"
+msgstr "Recent Jobseeker"
+
+msgid "Location"
+msgstr "Location"
+
+msgid "Designation"
+msgstr "Designation"
+
+msgid "Education"
+msgstr "Education"
+
+msgid "Contact"
+msgstr "Contact"
+
+msgid "Recent Employer"
+msgstr "Recent Employer"
+
+msgid "About company"
+msgstr "About company"
+
+msgid "Category"
+msgstr "Category"
+
+msgid "Company"
+msgstr "Company"
+
+msgid "Find Jobs"
+msgstr "Find Jobs"
+
+msgid "Logout"
+msgstr "Logout"
+
+msgid "Jobseeker Login"
+msgstr "Jobseeker Login"
+
+msgid "jobseeker Sign Up"
+msgstr "Jobseeker Sign Up"
+
+msgid "Employer Login"
+msgstr "Employer Login"
+
+msgid "Jobseekers"
+msgstr "Jobseekers"
+
+msgid "Blog"
+msgstr "Blog"
+
+msgid "Login to find & apply for Jobs"
+msgstr "Login to find & apply for Jobs"
+
+msgid "Create Jobseeker account"
+msgstr "Create Jobseeker account"
+
+msgid "Login to post Jobs for FREE"
+msgstr "Login to post Jobs for FREE"
+
+msgid "Create Employer account"
+msgstr "Create Employer account"
+
+msgid "All Rights Reserved"
+msgstr "All Rights Reserved"
+
+msgid "Powered by"
+msgstr "Powered by"
+
+msgid "login"
+msgstr "login"
+
+msgid "forgot password"
+msgstr "forgot password"
+
+msgid "Back to"
+msgstr "Back to"
+
+msgid "About Us"
+msgstr "About Us"
+
+msgid "Saved Jobs"
+msgstr "Saved Jobs"
+
+msgid "Companies"
+msgstr "Companies"
+
+msgid "Career tools"
+msgstr "Career tools"
+
+msgid "Career Resources"
+msgstr "Career Resources"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Benefits"
+msgstr "Benefits"
+
+msgid "Post a Job"
+msgstr "Post a Job"
+
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+msgid "Find a Job"
+msgstr "Find a Job"
+
+msgid "Resignation Sample"
+msgstr "Resignation Sample"
+
+msgid "Resume Sample"
+msgstr "Resume Sample"
+
+msgid "Contact us"
+msgstr "Contact us"
+
+msgid "Sitemap"
+msgstr "Sitemap"
+
+msgid "Terms and Conditions"
+msgstr "Terms and Conditions"
+
+msgid "Jobseeker Register"
+msgstr "Jobseeker Register"
+
+msgid "Jobs by Industry"
+msgstr "Jobs by Industry"
+
+msgid "Jobs by Functional Area"
+msgstr "Jobs by Functional Area"
+
+msgid "Jobs by City"
+msgstr "Jobs by City"
+
+msgid "How"
+msgstr "How"
+
+msgid "Works"
+msgstr "Works"
+
+msgid "Share your location with us for more relevant jobs"
+msgstr "Share your location with us for more relevant jobs"
+
+msgid "You can turn them off anytime from browser settings"
+msgstr "You can turn them off anytime from browser settings"
+
+msgid "Sure"
+msgstr "Sure"
+
+msgid "Later"
+msgstr "Later"
+
+msgid "Job Site Script"
+msgstr "Job Site Script"
+
+msgid "Sign In"
+msgstr "Sign In"
+
+msgid "Sign Up"
+msgstr "Sign Up"
+
+msgid "Create Job alert"
+msgstr "Create Job alert"
+
+msgid "Browse jobs"
+msgstr "Browse jobs"
+
+msgid "Browse all jobs"
+msgstr "Browse all jobs"
+
+msgid "Jobs by Company"
+msgstr "Jobs by Company"
+
+msgid "Jobs by Category"
+msgstr "Jobs by Category"
+
+msgid "Jobs by Designation"
+msgstr "Jobs by Designation"
+
+msgid "Quick Links"
+msgstr "Quick Links"
+
+msgid "Jobs for you"
+msgstr "Jobs for you"
+
+msgid "Jobs by Skill"
+msgstr "Jobs by Skill"
+
+msgid "Follow Us"
+msgstr "Follow Us"
+
+msgid "English"
+msgstr "English"
+
+msgid "French"
+msgstr "French"
+
+msgid "Choose a job you love, You will never have to work daily"
+msgstr "Choose a job you love, You will never have to work daily"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "Previous"
+msgstr "Previous"
+
+msgid "Your future starts"
+msgstr "Your future starts"
+
+msgid "here now"
+msgstr "here now"
+
+msgid "All Jobs"
+msgstr "All Jobs"
+
+msgid "Popular Jobs Categories"
+msgstr "Jobs Categories"
+
+msgid "Jobs"
+msgstr "Jobs"
+
+msgid "Create an account"
+msgstr "Create an account"
+
+msgid "Search desired job"
+msgstr "Search desired job"
+
+msgid "Send your resume"
+msgstr "Send your resume"
+
+msgid "Why Choose US"
+msgstr "Why Choose US"
+
+msgid "Easy Job Search"
+msgstr "Easy Job Search"
+
+msgid "No need for recurring contracts. You can order just one time, and if you like the service you can continue to order at your schedule of choice."
+msgstr "No need for recurring contracts. You can order just one time, and if you like the service you can continue to order at your schedule of choice."
+
+msgid "recent hot jobs"
+msgstr "recent hot jobs"
+
+msgid "We found"
+msgstr "We found"
+
+msgid "available job(s) for you"
+msgstr "available job(s) for you"
+
+msgid "hiring companies"
+msgstr "hiring companies"
+
+msgid "What people think about us.."
+msgstr "What people think about us.."
+
+msgid "Enquiry Management"
+msgstr "Enquiry Management"
+
+msgid "No complex option prices or transportation fees prevalent in other services. The fee per hour is mentioned on Helper’s profile page, and that’s all you pay for"
+msgstr "No complex option prices or transportation fees prevalent in other services. The fee per hour is mentioned on Helper’s profile page, and that’s all you pay for"
+
+msgid "Interview Scheduling"
+msgstr "Interview Scheduling"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "show more jobs"
+msgstr "show more jobs"
+
+msgid "More Companies"
+msgstr "More Companies"
+
+msgid "How it works"
+msgstr "How it works"
+
+msgid "Job Search by"
+msgstr "Job Search by"
+
+msgid "Categories"
+msgstr "Categories"
+
+msgid "All categories"
+msgstr "All categories"
+
+msgid "All companies"
+msgstr "All companies"
+
+msgid "Company"
+msgstr "Company"
+
+msgid "Location"
+msgstr "Location"
+
+msgid "All locations"
+msgstr "All locations"
+
+msgid "View All"
+msgstr "View All"
+
+msgid "We offer 2,989 job vacancies right now!"
+msgstr "We offer 2,989 job vacancies right now!"
+
+msgid "More than 20,000 locations"
+msgstr "More than 20,000 locations"
+
+msgid "Easy to apply online"
+msgstr "Easy to apply online"
+
+msgid "Title"
+msgstr "Title"
+
+msgid "Job Vacancy"
+msgstr "Job Vacancy"
+
+msgid "Employment"
+msgstr "Employment"
+
+msgid "Companies We've Helped"
+msgstr "Companies We've Helped"
+
+msgid "Top"
+msgstr "Top"
+
+msgid "Register"
+msgstr "Register"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Jobs Available"
+msgstr "Jobs Available"
+
+msgid "Finding your next job or career"
+msgstr "Finding your next job or career"
+
+msgid "Search here ,skills,designation, companies.."
+msgstr "Search here ,skills,designation, companies.."
+
+msgid "Find jobs by category"
+msgstr "Find jobs by category"
+
+msgid "Featured Jobs"
+msgstr "Featured Jobs"
+
+msgid "Membership Plan"
+msgstr "Membership Plan"
+
+msgid "Success Stories"
+msgstr "Success Stories"
+
+msgid "Companies have already used"
+msgstr "Companies have already used"
+
+msgid "See Why Over"
+msgstr "See Why Over"
+
+msgid "Top Employers"
+msgstr "Top Employers"
+
+msgid "Get your best job in here"
+msgstr "Get your best job in here"
+
+msgid "Browse Our"
+msgstr "Browse Our"
+
+msgid "Latest Jobs"
+msgstr "Latest Jobs"
+
+msgid "and find your dream job"
+msgstr "and find your dream job"
+
+msgid "Download our app"
+msgstr "Download our app"
+
+msgid "Explore All Categories"
+msgstr "Explore All Categories"
+
+msgid "Contact info"
+msgstr "Contact info"
+
+msgid "Phone"
+msgstr "Phone"
+
+msgid "Send Message"
+msgstr "Send Message"
+
+msgid "Main Pages"
+msgstr "Main Pages"
+
+msgid "Employer Register"
+msgstr "Employer Register"
+
+msgid "Find jobs with your skills, save and apply on jobs easily. We allow candidates to update their Experience, Education, Skills and other professional details which will make you visible to companies easily."
+msgstr "Find jobs with your skills, save and apply on jobs easily. We allow candidates to update their Experience, Education, Skills and other professional details which will make you visible to companies easily."
+
+msgid "Connect to opportunities and show your professional potential to the world with us. We make us easy to view, find and apply on the latest jobs in the market."
+msgstr "Connect to opportunities and show your professional potential to the world with us. We make us easy to view, find and apply on the latest jobs in the market."
+
+
+msgid "Available"
+msgstr "Available"
+
+msgid "No Announcements available"
+msgstr "No Announcements available"
+
+msgid "Job aspirants can search Jobs using keyword."
+msgstr "Job aspirants can search Jobs which will provide them with the relevant result."
+
+msgid "Job Seeker can apply for Job, which is a potential match for their profile."
+msgstr "Job Seeker can apply for Job, which is a potential match for their profile."
+
+msgid "Job seeker can create account with basic user information."
+msgstr "Job seeker can create account with basic user information."
+
+msgid "Get started now"
+msgstr "Get started now"
+
+msgid "Any Sub Category"
+msgstr "Any Sub Category"
+
+msgid "Unique monthly visitors"
+msgstr "Unique monthly visitors"
+
+msgid "Resumes"
+msgstr "Resumes"
+
+msgid "Total ratings and reviews"
+msgstr "Total ratings and reviews"
+
+msgid "Jobs added per second globally"
+msgstr "Jobs added per second globally"
+
+msgid "Why We are the best"
+msgstr "Why We are the best"
+
+msgid "Uniquely qualified"
+msgstr "Uniquely qualified"
+
+msgid "Get your job in front of Recruter members who are active on our network, engaged in their careers, and open to new opportunities."
+msgstr "Get your job in front of Recruiter members who are active on our network, engaged in their careers, and open to new opportunities."
+
+msgid "Targeted matches"
+msgstr "Targeted matches"
+
+msgid "Our network gives us a deep, up-to-date, and insightful dataset of professionals. We use that data to match your role to the most qualified professionals."
+msgstr "Our network gives us a deep, up-to-date, and insightful dataset of professionals. We use that data to match your role to the most qualified professionals."
+
+msgid "Only pay for results"
+msgstr "Only pay for results"
+
+msgid "Pay only when candidates view your job post. Tell us your budget, and we can estimate how many applicants you'll receive."
+msgstr "Pay only when candidates view your job post. Tell us your budget, and we can estimate how many applicants you'll receive."
+
+msgid "Send us message"
+msgstr "Send us message"
+
+msgid "General Query"
+msgstr "General Query"
+
+msgid "Personal Feedback"
+msgstr "Personal Feedback"
+
+msgid "Pre Sale Question"
+msgstr "Pre Sale Question"
+
+msgid "Support Issue"
+msgstr "Support Issue"
+
+msgid "Refund Issue"
+msgstr "Refund Issue"
+
+msgid "Explore Categories"
+msgstr "Explore Categories"
+
+msgid "UPLOAD CV"
+msgstr "UPLOAD CV"
+
+msgid "50,000 Jobs Available"
+msgstr "50,000 Jobs Available"
+
+msgid "Choose a job you love, You will never have to work daily"
+msgstr "Choose a job you love, You will never have to work daily"
+
+msgid "Browse Jobs"
+msgstr "Browse Jobs"
+
+msgid "Explore Categories"
+msgstr "Explore Categories"
+
+msgid "Jobs Posted"
+msgstr "Jobs Posted"
+
+msgid "Freelancers"
+msgstr "Freelancers"

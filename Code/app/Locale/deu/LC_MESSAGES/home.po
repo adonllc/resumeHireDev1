@@ -1,0 +1,542 @@
+msgid "Over 7 million jobs"
+msgstr "Über 7 Millionen Jobs"
+
+msgid "More than 20,000 locations"
+msgstr "Mehr als 20.000 Standorte"
+
+msgid "Easy to apply online"
+msgstr "Einfach online anzuwenden"
+
+msgid "Jobs Search By Keyword"
+msgstr "Jobs Suche nach Schlüsselwort"
+
+msgid "Category you choose"
+msgstr "Kategorie, die du wählst"
+
+msgid "Location you want"
+msgstr "Ort, den du willst"
+
+msgid "Best Place To Find The Companies"
+msgstr "Der beste Ort, um die Unternehmen zu finden"
+
+msgid "No record found"
+msgstr "Kein Datensatz gefunden"
+
+msgid "Latest Jobs"
+msgstr "Neueste Jobs"
+
+msgid "Recent Jobseeker"
+msgstr "Letzter Jobsuchender"
+
+msgid "Location"
+msgstr "Standort"
+
+msgid "Designation"
+msgstr "Bezeichnung"
+
+msgid "Education"
+msgstr "Bildung"
+
+msgid "Contact"
+msgstr "Kontakt"
+
+msgid "Recent Employer"
+msgstr "Neuer Arbeitgeber"
+
+msgid "About company"
+msgstr "Neuer Arbeitgeber"
+
+msgid "Category"
+msgstr "Kategorie"
+
+msgid "Company"
+msgstr "Firma"
+
+msgid "Find Jobs"
+msgstr "Jobs suchen"
+
+msgid "Logout"
+msgstr "Abmelden"
+
+msgid "Jobseeker Login"
+msgstr "Jobsuchende Login"
+
+msgid "jobseeker Sign Up"
+msgstr "Arbeitsuchende Anmeldung"
+
+msgid "Employer Login"
+msgstr "Arbeitgeber Login"
+
+msgid "Jobseekers"
+msgstr "Arbeitssuchende"
+
+msgid "Blog"
+msgstr "Blog"
+
+msgid "Login to find & apply for Jobs"
+msgstr "Anmelden um Jobs zu finden und zu bewerben"
+
+msgid "Create Jobseeker account"
+msgstr "Jobsucherkonto erstellen"
+
+msgid "Login to post Jobs for FREE"
+msgstr "Anmelden, um Jobs KOSTENLOS zu veröffentlichen"
+
+msgid "Create Employer account"
+msgstr "Arbeitgeberkonto erstellen"
+
+msgid "All Rights Reserved"
+msgstr "Alle Rechte vorbehalten"
+
+msgid "Powered by"
+msgstr "Angetrieben von"
+
+msgid "login"
+msgstr "Anmelden"
+
+msgid "forgot password"
+msgstr "Passwort vergessen"
+
+msgid "Back to"
+msgstr "Zurück zu"
+
+msgid "About Us"
+msgstr "Über uns"
+
+msgid "Saved Jobs"
+msgstr "Gespeicherte Jobs"
+
+msgid "Companies"
+msgstr "Firmen"
+
+msgid "Career tools"
+msgstr "Karriere-Tools"
+
+msgid "Career Resources"
+msgstr "Karriere Ressourcen"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Benefits"
+msgstr "Vorteile"
+
+msgid "Post a Job"
+msgstr "Einen Job veröffentlichen"
+
+msgid "Privacy Policy"
+msgstr "Datenschutzrichtlinie"
+
+msgid "Find a Job"
+msgstr "Finde einen Job"
+
+msgid "Resignation Sample"
+msgstr "Resignation Probe"
+
+msgid "Resume Sample"
+msgstr "Probe fortsetzen"
+
+msgid "Contact us"
+msgstr "Kontaktieren Sie uns"
+
+msgid "Sitemap"
+msgstr "Seitenverzeichnis"
+
+msgid "Terms and Conditions"
+msgstr "Allgemeine Geschäftsbedingungen"
+
+msgid "Jobseeker Register"
+msgstr "Arbeitsuchende Register"
+
+msgid "Jobs by Industry"
+msgstr "Jobs nach Branche"
+
+msgid "Jobs by Functional Area"
+msgstr "Jobs nach Funktionsbereich"
+
+msgid "Jobs by City"
+msgstr "Jobs nach Stadt"
+
+msgid "How"
+msgstr "Wie"
+
+msgid "Works"
+msgstr "Arbeitet"
+
+msgid "Share your location with us for more relevant jobs"
+msgstr "Teilen Sie Ihren Standort mit uns für relevantere Jobs"
+
+msgid "You can turn them off anytime from browser settings"
+msgstr "Sie können sie jederzeit aus den Browsereinstellungen ausschalten"
+
+msgid "Sure"
+msgstr "Sicher"
+
+msgid "Later"
+msgstr "Später"
+
+msgid "Job Site Script"
+msgstr "Job Site Skript"
+
+msgid "Sign In"
+msgstr "Einloggen"
+
+msgid "Sign Up"
+msgstr "Anmelden"
+
+msgid "Create Job alert"
+msgstr "Job-Benachrichtigung erstellen"
+
+msgid "Browse jobs"
+msgstr "Jobs durchsuchen"
+
+msgid "Browse all jobs"
+msgstr "Durchsuchen Sie alle Jobs"
+
+msgid "Jobs by Company"
+msgstr "Jobs nach Unternehmen"
+
+msgid "Jobs by Category"
+msgstr "Jobs nach Kategorie"
+
+msgid "Jobs by Designation"
+msgstr "Jobs nach Bezeichnung"
+
+msgid "Quick Links"
+msgstr "Quick Links"
+
+msgid "Jobs for you"
+msgstr "Jobs für Sie"
+
+msgid "Jobs by Skill"
+msgstr "Jobs nach Geschicklichkeit"
+
+msgid "Follow Us"
+msgstr "Folge uns"
+
+msgid "English"
+msgstr "Englisch"
+
+msgid "French"
+msgstr "Französisch"
+
+msgid "Choose a job you love, You will never have to work daily"
+msgstr "Wählen Sie einen Job, den Sie lieben"
+
+msgid "Next"
+msgstr "Nächster"
+
+msgid "Previous"
+msgstr "Bisherige"
+
+msgid "Your future starts"
+msgstr "Deine Zukunft beginnt"
+
+msgid "here now"
+msgstr "Jetzt hier"
+
+msgid "All Jobs"
+msgstr "Alle Jobs"
+
+msgid "Popular Jobs Categories"
+msgstr "Job-Kategorien"
+
+msgid "Jobs"
+msgstr "Arbeitsplätze"
+
+msgid "Create an account"
+msgstr "Ein Konto erstellen"
+
+msgid "Search desired job"
+msgstr "Suchen Sie den gewünschten Job"
+
+msgid "Send your resume"
+msgstr "Senden Sie Ihren Lebenslauf"
+
+msgid "Why Choose US"
+msgstr "Warum Uns Wählen"
+
+msgid "Easy Job Search"
+msgstr "Einfache Jobsuche"
+
+msgid "No need for recurring contracts. You can order just one time, and if you like the service you can continue to order at your schedule of choice."
+msgstr "Keine wiederkehrenden Verträge erforderlich. Sie können nur einmal bestellen und wenn Sie den Service mögen, können Sie die Bestellung nach Ihrem Zeitplan fortsetzen."
+
+msgid "recent hot jobs"
+msgstr "die letzten heißen Jobs"
+
+msgid "We found"
+msgstr "Wir fanden"
+
+msgid "available job(s) for you"
+msgstr "verfügbare Jobs für Sie"
+
+msgid "hiring companies"
+msgstr "Verleihfirmen"
+
+msgid "What people think about us.."
+msgstr "Was die Leute über uns denken .."
+
+msgid "Enquiry Management"
+msgstr "Anfrage Management"
+
+msgid "No complex option prices or transportation fees prevalent in other services. The fee per hour is mentioned on Helper’s profile page, and that’s all you pay for"
+msgstr "Keine komplexen Optionspreise oder Transportgebühren, die bei anderen Dienstleistungen vorherrschen. Die Gebühr pro Stunde wird auf der Profilseite von Helper angegeben. Dafür zahlen Sie alles"
+
+msgid "Interview Scheduling"
+msgstr "Interviewterminierung"
+
+msgid "Search"
+msgstr "Suche"
+
+msgid "show more jobs"
+msgstr "mehr Jobs anzeigen"
+
+msgid "Explore All Categories"
+msgstr "Entdecken Sie alle Kategorien"
+
+msgid "More Companies"
+msgstr "More Companies"
+
+msgid "How it works"
+msgstr "Wie es funktioniert"
+
+msgid "Job Search by"
+msgstr "Jobsuche über"
+
+msgid "Categories"
+msgstr "Kategorien"
+
+msgid "All categories"
+msgstr "Kategorien"
+
+msgid "All companies"
+msgstr "Alle Unternehmen"
+
+msgid "Company"
+msgstr "Unternehmen"
+
+msgid "Location"
+msgstr "Ort"
+
+msgid "All locations"
+msgstr "alle Orte"
+
+msgid "View All"
+msgstr "Alle ansehen"
+
+msgid "We offer 2,989 job vacancies right now!"
+msgstr "Wir bieten derzeit 2,989 offene Stellen an!"
+
+msgid "More than 20,000 locations"
+msgstr "Über 20.000 Standorte"
+
+msgid "Easy to apply online"
+msgstr "Einfach online bewerben"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Job Vacancy"
+msgstr "Freie Stelle"
+
+msgid "Employment"
+msgstr "Beschäftigung"
+
+msgid "Companies We've Helped"
+msgstr "Unternehmen, denen wir geholfen haben"
+
+msgid "Top"
+msgstr "oben"
+
+msgid "Register"
+msgstr "Registrieren"
+
+msgid "Login"
+msgstr "Anmeldung"
+
+msgid "Jobs Available"
+msgstr "Offene Stellen"
+
+msgid "Finding your next job or career"
+msgstr "Finden Sie Ihren nächsten Job oder Ihre nächste Karriere"
+
+msgid "Search here ,skills,designation, companies.."
+msgstr "Suchen Sie hier, Fähigkeiten, Bezeichnung, Unternehmen .."
+
+msgid "Find jobs by category"
+msgstr "Finden Sie Jobs nach Kategorie"
+
+msgid "Featured Jobs"
+msgstr "Empfohlene Jobs"
+
+msgid "Membership Plan"
+msgstr "Mitgliedschaftsplan"
+
+msgid "Success Stories"
+msgstr "Erfolgsgeschichten"
+
+msgid "Companies have already used"
+msgstr "Firmen haben bereits verwendet"
+
+msgid "See Why Over"
+msgstr "Sehen Sie warum vorbei"
+
+msgid "Top Employers"
+msgstr "Top Arbeitgeber"
+
+msgid "Employers"
+msgstr "Arbeitgeber"
+
+msgid "Get your best job in here"
+msgstr "Holen Sie sich Ihren besten Job hier"
+
+msgid "Browse Our"
+msgstr "Stöbern Sie in unserem"
+
+msgid "Latest Jobs"
+msgstr "Neueste Jobs"
+
+msgid "and find your dream job"
+msgstr "und finde deinen Traumjob"
+
+msgid "Download our app"
+msgstr "Laden Sie unsere App herunter"
+
+msgid "Explore All Categories"
+msgstr "Explorer toutes les catégories"
+
+msgid "Contact info"
+msgstr "Kontaktinformation"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Send Message"
+msgstr "Nachricht senden"
+
+
+msgid "Main Pages"
+msgstr "Hauptseiten"
+
+msgid "Employer Register"
+msgstr "Arbeitgeberregister"
+
+msgid "Find jobs with your skills, save and apply on jobs easily. We allow candidates to update their Experience, Education, Skills and other professional details which will make you visible to companies easily."
+msgstr "Finden Sie Jobs mit Ihren Fähigkeiten, speichern Sie und bewerben Sie sich einfach auf Jobs. Wir ermöglichen Kandidaten, ihre Erfahrungen, Ausbildung, Fähigkeiten und andere berufliche Details zu aktualisieren, um Sie für Unternehmen leicht sichtbar zu machen."
+
+msgid "Connect to opportunities and show your professional potential to the world with us. We make us easy to view, find and apply on the latest jobs in the market."
+msgstr "Verbinden Sie sich mit Chancen und zeigen Sie mit uns Ihr berufliches Potenzial der Welt. Wir machen es uns einfach, die neuesten Stellen auf dem Markt anzuzeigen, zu finden und zu bewerben."
+
+msgid "Available"
+msgstr "Verfügbar"
+
+msgid "No Announcements available"
+msgstr "Keine Ankündigungen verfügbar"
+
+msgid "Job aspirants can search Jobs using keyword."
+msgstr "Jobaspiranten können Jobs mit Schlüsselwörtern suchen."
+
+msgid "Job Seeker can apply for Job, which is a potential match for their profile."
+msgstr "Der Arbeitssuchende kann sich für einen Job bewerben, der möglicherweise zu seinem Profil passt."
+
+msgid "Job seeker can create account with basic user information."
+msgstr "Arbeitssuchende können ein Konto mit grundlegenden Benutzerinformationen erstellen."
+
+msgid "Get started now"
+msgstr "Jetzt loslegen"
+
+msgid "Any Sub Category"
+msgstr "Beliebige Unterkategorie"
+
+msgid "Unique monthly visitors"
+msgstr "Einzigartige monatliche Besucher"
+
+msgid "Resumes"
+msgstr "Wiederaufnahme"
+
+msgid "Total ratings and reviews"
+msgstr "Gesamtbewertungen und Bewertungen"
+
+msgid "Jobs added per second globally"
+msgstr "Jobs werden pro Sekunde weltweit hinzugefügt"
+
+msgid "Why We are the best"
+msgstr "Warum wir die Besten sind"
+
+msgid "Uniquely qualified"
+msgstr "Einzigartig qualifiziert"
+
+msgid "Get your job in front of Recruter members who are active on our network, engaged in their careers, and open to new opportunities."
+msgstr "Stellen Sie Ihren Job vor Recruiter-Mitgliedern, die in Ihrem Netzwerk aktiv sind, Karriere machen und sich neuen Möglichkeiten öffnen."
+
+msgid "Targeted matches"
+msgstr "Gezielte Übereinstimmungen"
+
+msgid "Our network gives us a deep, up-to-date, and insightful dataset of professionals. We use that data to match your role to the most qualified professionals."
+msgstr "Unser Netzwerk bietet uns einen umfassenden, aktuellen und aufschlussreichen Datensatz von Fachleuten. Wir verwenden diese Daten, um Ihre Rolle den qualifiziertesten Fachleuten zuzuordnen."
+
+msgid "Only pay for results"
+msgstr "Zahlen Sie nur für Ergebnisse"
+
+msgid "Pay only when candidates view your job post. Tell us your budget, and we can estimate how many applicants you'll receive."
+msgstr "Zahlen Sie nur, wenn die Bewerber Ihre Stellenanzeige anzeigen. Teilen Sie uns Ihr Budget mit, und wir können schätzen, wie viele Bewerber Sie erhalten."
+
+msgid "Send us message"
+msgstr "Senden Sie uns eine Nachricht"
+
+msgid "General Query"
+msgstr "Allgemeine Abfrage"
+
+msgid "Personal Feedback"
+msgstr "Persönliches Feedback"
+
+msgid "Pre Sale Question"
+msgstr "Vorverkaufsfrage"
+
+msgid "Support Issue"
+msgstr "Support-Problem"
+
+msgid "Refund Issue"
+msgstr "Rückerstattungsproblem"
+
+msgid "Explore Categories"
+msgstr "Explore Categories"
+
+msgid "UPLOAD CV"
+msgstr "LEBENSLAUF HOCHLADEN"
+
+msgid "50,000 Jobs Available"
+msgstr "50.000 Jobs verfügbar"
+
+msgid "Choose a job you love, You will never have to work daily"
+msgstr "Wählen Sie einen Job, den Sie lieben. Sie müssen nie täglich arbeiten"
+
+msgid "Browse Jobs"
+msgstr "Jobs durchsuchen"
+
+msgid "Explore Categories"
+msgstr "Kategorien erkunden"
+
+msgid "Jobs Posted"
+msgstr "Stellenausschreibung"
+
+msgid "Freelancers"
+msgstr "Freiberufler"
+
+msgid "By Title"
+msgstr "Nach Titel"
+
+msgid "By Skill"
+msgstr "Durch Geschicklichkeit"
+
+msgid "By Category"
+msgstr "Nach Kategorie"
+
+msgid "Popular Searches"
+msgstr "Beliebte Suchanfragen"
+
+msgid "VIEW ALL JOBS"
+msgstr "ALLE JOBS ANZEIGEN"
+
+

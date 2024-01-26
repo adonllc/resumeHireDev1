@@ -1,0 +1,332 @@
+@media only screen and (max-width:1200px){
+header .header .navbar-light .navbar-nav .nav-link .fa {padding-right: 3px;}
+header .header .navbar-light .navbar-nav .nav-link {font-size: 12px;}
+.send_box_fixed {width:300px;}
+}
+@media only screen and (max-width:992px){
+header .header .bg-light {float: none;}
+header .header .logo img{max-width:100%;}
+.send_box_fixed {width: 275px;}
+span.notifaction{display: none;}
+section.Find-job{overflow: hidden;}
+section.how_it_work{overflow: hidden;}
+section.Featured_Jobs{overflow: hidden;}
+section.Download_our{overflow: hidden;}
+.second_slider{overflow: hidden;}
+button .navbar-toggler.collapsed {position: absolute;top: -3px;right: 0px;}
+header .header {padding-top: 10px;background: #fff;height: 48px;}
+button.navbar-toggler {position: absolute;right: 0px;top: -3px;}
+div#navbarSupportedContent {background:#fff;position: absolute;width: 143%;left: -182px;top:39px;}
+.section-title h2 {font-size: 34px;}
+.client-content {margin-top: 55px;}
+.how_it_work .cat-details p{font-size: 14px;}
+.how_it_work .cat-icon img {padding-top: 14px;width: 30%;}
+.how_it_work .cat-details h3 {font-size: 17px;padding: 10px 0px;}
+header .header .navbar-light .navbar-nav .nav-link {color: #000;font-size: 15px;padding: 12px 35px;}
+header .header li.nav-item {border-bottom: 1px #000 solid;}
+}
+@media only screen and (max-width:767px){
+span.notifaction{display: none;}
+div#navbarSupportedContent {background: #fff;position: absolute;width: 767px;left: -248px;top: 39px;}
+.search_bar_listing .form-control {height: 50px;width: 100%;margin-bottom: 20px;}
+section.contact_us .contact-form input[type=text] {width: 100%;margin-bottom: 20px;}
+section.contact_us .contact-form textarea {margin-top: 0px;}
+header .header {
+	position: relative;
+}
+.single-job .job-meta {width: 100%; margin-top: 10px; padding-left: 0}
+.single-job .timing {
+	margin-left: 0;
+	position: initial;
+	display: inline-block;
+	width: 100%;
+	text-align: left; margin-top:10px
+}
+.header.fixed-me {
+	z-index: 999999
+}
+.job-locations a {
+	width: 87%;
+}
+
+.job-times {
+	float: left;
+	padding-top: 8px;
+	padding-left: 17px;
+}
+.job-locations {
+	padding: 4px 0 0 17px;
+	width: 78%;
+}
+.logo-detail {
+	width: 100px;
+	height: 100px;
+}
+.job-meta-detail {
+	float: left;
+	padding-left: 20px;
+	padding-top: 0;
+	width: 63%;
+}
+.job-meta-detail .title h4 a {
+	font-size: 21px;
+}
+.mackcv-btns {
+	text-align: left;
+}
+.featured-view-jobs a {
+	font-size: 15px;
+	padding: 7px 16px;
+  }
+}
+@media only screen and (max-width:568px){
+.slider-area{margin-top: 0px;background-position: center top;}
+section.jovb_list-overfellow{overflow: hidden;}
+.search_bar_listing .form-control {height: 50px;width: 100%;margin-bottom: 20px;}
+.job_button_p a{float: left;}
+header .header .bg-light {float: none;}
+.Featured_Jobs .owl-nav{display: none;}
+.Purchase-Membership .owl-nav{display: none;}
+section.contact_us .contact-form button {margin-bottom: 20px;}
+header .header {padding: 0px;}
+.slider-area .slider-text h1 {font-size: 36px; color: #fff;}
+span.notifaction{display: none;}
+.mobile-hide {display: none;}
+.mobile-show {display: block;}
+.job-search-bar {position: relative;right: 0;left: 0;}
+.search_button {padding-top: 0px;}
+.how_it_work .thumbnail-bx {margin-bottom: 20px;}
+.pb-100 {padding-bottom: 50px;}
+.single-job .job-meta {width: 100%; margin-top: 10px; padding-left: 0}
+.single-job .meta-info {display: block !important;}
+/*.single-job .timing {margin-left: 75px !important;}*/
+.section-title h2, .section-title h3, .sidebar-title h2, .sidebar-title h3 {font-size: 24px;}
+.apps-download-area .apps-btn {margin-bottom: 30px;display: inline-block;margin-top: 0;}
+.apps-download-area .apps-btn a:first-child img {margin-bottom: 10px;}
+.job-browse-area .title h2 {font-size: 24px;}
+header .header .logo {	width: 172px;margin-top: 17px;}
+.job-categories-area .expore_btn.text-right{display: none;}
+/*.expore_btn.btn_centre{display: block;bottom: -100%;margin-left: 25%;margin-top: 20px;}*/
+.client-content {text-align: center;margin-top: 10px;}
+section.Find-job{overflow: hidden;}
+section.how_it_work{overflow: hidden;}
+section.Featured_Jobs{overflow: hidden;}
+section.Download_our {overflow: hidden;background: #f5f5f5;margin-top: 30px;}
+.second_slider{overflow: hidden;}
+.client-content .client-big {font-size: 44px;color: #33b6cb;font-weight: 600;}
+button.navbar-toggler.collapsed {position: absolute;top: -32px;right: 0px;}
+button.navbar-toggler {position: absolute;right: 0px;top: -32px;}
+div#navbarSupportedContent {background: #fff;position: absolute;width: 111%;left: -15px;top: 7px;}
+header .header .navbar-light .navbar-nav .nav-link {color: #000;font-size: 15px;padding: 8px 20px;}
+header .header li.nav-item {border-bottom: 1px #000 solid; z-index: 999999;}
+.header.fixed-me {padding: 0px 0px !important;}
+.slider-area .slide-title p {font-size: 18px;color: #fff;margin-bottom: -69px;}
+.job-search-bar .section-title h2 {color: #fff;font-size: 25px;}
+header .header {background: #fff;height: 84px;}
+button.navbar-toggler.collapsed {position: absolute;top: -40px;right: 0px;}
+.login-dropdown .dropdown-toggle::after {
+	position: relative;
+	right: 0;
+	top: 2px;
+	width: 7px;
+	height: 5px;
+}
+.job-search-bar {
+	display: inline-block;
+	width: 100%;
+}
+.slider-area {
+	background-position: 70% 0 !important;
+}
+.slider-area::before {
+	position: absolute;
+	left: 0;
+	top: 0;
+	content: "";
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,0.5);
+}
+.jobsearch-btn {
+	display: inline-block;
+	padding-left: 14px;
+	margin-top: 10px;
+}
+.jobsearch-input {
+	width: 100%;
+	padding-right: 0;
+}
+.jobs-clients {
+	margin-top: 20px;
+	position: relative;
+	z-index: 99999;
+	margin-bottom: 20px;
+}
+.jobs-clients-posted {
+	padding: 0 20px;
+}
+.jobs-clients-posted span,
+.jobs-clients-posted strong {
+	color: #fff;
+}
+.create-account-option {
+	padding: 20px 0;
+	overflow: hidden;
+}
+.create-account-option .card {
+	text-align: center;
+	margin-bottom: 30px;
+}
+.cat-list-items-new {
+	padding: 20px 0 20px;
+}
+.job-categories-area .single-category {
+	border-right: none;
+}
+.explore-categorys-new:nth-child(5n) .single-category, .explore-categorys-new:nth-child(6n) .single-category, .explore-categorys-new:nth-child(7n) .single-category, .explore-categorys-new:nth-child(8n) .single-category {
+	border-bottom: 1px solid #EEEFF1;
+}
+.browse-jobs-section {
+	padding: 30px 0;
+	overflow: hidden;
+}
+.browse-jobs-tabs .nav-item .nav-link {
+	padding: 10px 7px;
+	font-size: 13px;
+}
+.browse-jobs-tabs .nav-item {
+	width: auto;
+	padding-left: 0;
+}
+.browse-jobs-tabs {
+	width: 100%;
+	padding: 0;
+}
+.bytitle-category {
+	width: 100%;
+	padding: 20px 0;
+}
+.bytitle-category ul li {
+	width: 100%;
+	padding: 0;
+}
+.bytitle-category ul li a {
+	color: #47474b;
+	font-size: 14px;
+}
+.logo_section_l.pt-100 {
+	padding-top: 0;
+}
+.section_logo_pt.pt-100 {
+	padding-top: 20px;
+}
+.Purchase-Membership .center .pl_main {
+	-webkit-transition: all 200ms ease-in;
+	-webkit-transform: scale(1);
+	-ms-transition: all 200ms ease-in;
+	-ms-transform: scale(1);
+	-moz-transition: all 200ms ease-in;
+	-moz-transform: scale(1);
+	transition: all 200ms ease-in;
+	transform: scale(1);
+}
+.apps-details-content .section-title h2 {
+	font-size: 30px;
+}
+.apps-details-content .section-title h2 span {
+	font-size: 27px;
+}
+.apps-download-area .apps-details-content a {
+	margin-right: 1%;
+	width: 40%;
+	float: left;
+}
+.users-informetion-detal {
+	display: inline-block;
+	padding: 10px 0 0;
+}
+.con-left-bx {
+	padding-left: 0;
+	border-right: none;
+	padding-top: 0;
+}
+.my-profile-boxes-mddel {
+	padding: 20px 20px;
+}
+.my-profile-img {
+	width: 90px;
+	height: 90px;
+}
+.my-profile-names {
+	padding-left: 10px;
+	font-size: 20px;
+	margin-top: 3px;
+}
+.account-servise-btn a {
+	font-size: 14px;
+	margin-right: 10px;
+}
+.currant-upplan {
+	font-size: 13px;
+	padding: 6px 15px;
+}
+.uxicon_help::before {
+	right: 20px;
+}
+.uxicon_help {
+	left: auto;
+	transform: initial;
+	right: -20px; width: 170px;
+}
+.pl_fflist li {
+	padding: 2px 0 15px 30px;
+	font-size: 14px;
+}
+.help_bxse {
+	margin-top: 2px;
+}
+.pl_amount {
+	font-size: 32px;
+}
+.pl_name {
+	font-size: 18px;
+}
+.ui-widget-content {
+	z-index: 9 !important;
+  }
+  select.chosen-select,
+  select.not_chosen {
+	color: #999;
+	border: 1px solid #cccccc;
+	padding: 15px;
+}
+.totag {
+	padding-bottom: 16px;
+	display: block;
+}
+.right-sidebar .icon i {
+	text-align: left;
+	width: 25px;
+}
+.qualification-select span {
+	margin-bottom: 0;
+  }
+  .paging .pagination {
+	margin: 5px 0;
+	float: left;
+}
+}
+@media only screen and (max-width:479px){
+header .header {background: #fff;height: 64px;}
+button.navbar-toggler.collapsed {position: absolute;top: -32px;right: 0px;}
+button.navbar-toggler {position: absolute;right: 0px;top: -38px;}
+section.contact_us .contact-form input[type=text] {width: 100%;margin-bottom: 20px;}
+section.contact_us .contact-form textarea {margin-top: 0px;}
+}
+@media only screen and (max-width:320px){
+header .header {background: #fff;height: 48px;} 
+button.navbar-toggler.collapsed {position: absolute;top: -32px;right: 0px;}
+button.navbar-toggler {position: absolute;right: 0px;top: -31px;}
+section.contact_us .contact-form input[type=text] {width: 100%;margin-bottom: 20px;}
+section.contact_us .contact-form textarea {margin-top: 0px;}
+}

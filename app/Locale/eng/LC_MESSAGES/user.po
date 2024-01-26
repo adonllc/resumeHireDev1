@@ -1,0 +1,1457 @@
+msgid "Jobseeker Sign In"
+msgstr "Jobseeker Sign In"
+
+msgid "Email Address"
+msgstr "Email Address"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Remember me"
+msgstr "Remember me"
+
+msgid "How does it work"
+msgstr "How does it work"
+
+msgid "3 easy steps to get best jobs"
+msgstr "3 easy steps to get best jobs"
+
+msgid "Upload Resume"
+msgstr "Upload Resume"
+
+msgid "Upload your updated resume here"
+msgstr "Upload your updated resume here"
+
+msgid "Receive job alerts"
+msgstr "Receive job alerts"
+
+msgid "You will receive latest job alerts"
+msgstr "You will receive latest job alerts"
+
+msgid "Get your opportunity"
+msgstr "Get your opportunity"
+
+msgid "Choose the best job and take your opportunity"
+msgstr "Choose the best job and take your opportunity"
+
+msgid "Security Code"
+msgstr "Security Code"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "to resend activation email"
+msgstr "to resend activation email"
+
+msgid "Click here"
+msgstr "Click here"
+
+msgid "Forgot Password"
+msgstr "Forgot Password"
+
+msgid "Enter the e-mail address associated with your account. Click submit to have your password e-mailed to you."
+msgstr "Enter the e-mail address associated with your account. Click submit to have your password e-mailed to you."
+
+msgid "Oops, I just remembered it! Take me back to the"
+msgstr "Oops, I just remembered it! Take me back to the"
+
+msgid "Submit"
+msgstr "Submit"
+
+msgid "Password minimum length must be 8 charaters and combination of 1 special character, 1 lowercase character, 1 uppercase character and 1 number."
+msgstr "Password minimum length must be 8 charaters and combination of 1 special character, 1 lowercase character, 1 uppercase character and 1 number."
+
+msgid "Change your password"
+msgstr "Change your password"
+
+msgid "Old Password"
+msgstr "Old Password"
+
+msgid "New Password"
+msgstr "New Password"
+
+msgid "Confirm Password"
+msgstr "Confirm Password"
+
+msgid "Update Password"
+msgstr "Update Password"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Contact Number is not valid"
+msgstr "Contact Number is not valid"
+
+msgid "Note: Special characters, number and spaces are not allowed"
+msgstr "Note: Special characters, number and spaces are not allowed"
+
+msgid "Please enter a valid URL"
+msgstr "Please enter a valid URL"
+
+msgid "Edit Profile Information"
+msgstr "Edit Profile Information"
+
+msgid "Company Name"
+msgstr "Company Name"
+
+msgid "Company Profile"
+msgstr "Company Profile"
+
+msgid "Position"
+msgstr "Position"
+
+msgid "First Name"
+msgstr "First Name"
+
+msgid "Last Name"
+msgstr "Last Name"
+
+msgid "Address"
+msgstr "Address"
+
+msgid "Location"
+msgstr "Location"
+
+msgid "Contact Number"
+msgstr "Contact Number"
+
+msgid "Company Number"
+msgstr "Company Number"
+
+msgid "Company Website"
+msgstr "Company Website"
+
+msgid "Choose location"
+msgstr "Choose location"
+
+msgid "Forgot your password?"
+msgstr "Forgot your password?"
+
+msgid "Employer Sign In"
+msgstr "Employer Sign In"
+
+msgid "How does it work"
+msgstr "How does it work"
+
+msgid "3 easy steps to get best candidate"
+msgstr "3 easy steps to get best candidate"
+
+msgid "Post jobs or requirements"
+msgstr "Post jobs or requirements"
+
+msgid "Post jobs as much as you want"
+msgstr "Post jobs as much as you want"
+
+msgid "Refine the applications"
+msgstr "Refine the applications"
+
+msgid "Refine the job applications according to your requirement"
+msgstr "Refine the job applications according to your requirement"
+
+msgid "Select best candidate"
+msgstr "Select best candidate"
+
+msgid "After refining you can find best"
+msgstr "After refining you can find best"
+
+msgid "Here, the jobs of"
+msgstr "Here, the jobs of"
+
+msgid "My Profile"
+msgstr "My Profile"
+
+msgid "Current Plan"
+msgstr "Current Plan"
+
+msgid "Edit Profile"
+msgstr "Edit Profile"
+
+msgid "Upgrade Plan"
+msgstr "Upgrade Plan"
+
+msgid "People"
+msgstr "People"
+
+msgid "Here, the profiles of talented youth are listed in an alphabetical manner. Know more about them by going through their education and professional details."
+msgstr "Here, the profiles of talented youth are listed in an alphabetical manner. Know more about them by going through their education and professional details."
+
+msgid "Jobseeker Sign up"
+msgstr "Jobseeker Sign Up"
+
+msgid "Employer Sign up"
+msgstr "Employer Sign Up"
+
+msgid "Employer Sign Up"
+msgstr "Employer Sign Up"
+
+msgid "Sign In Here"
+msgstr "Sign In Here"
+
+msgid "Already a member"
+msgstr "Already a member"
+
+msgid "By signing up, you agree to"
+msgstr "By signing up, you agree to"
+
+msgid "Terms and Conditions"
+msgstr "Terms and Conditions"
+
+msgid "Password must contain at least one number"
+msgstr "Password must contain at least one number"
+
+msgid "Reset your password"
+msgstr "Reset your password"
+
+msgid "Reset Password"
+msgstr "Reset Password"
+
+msgid "Change company logo"
+msgstr "Change company logo"
+
+msgid "Current Logo"
+msgstr "Current Logo"
+
+msgid "New Logo"
+msgstr "New Logo"
+
+msgid "file not allowed for company logo."
+msgstr "file not allowed for company logo."
+
+msgid "file size allowed for company logo."
+msgstr "file size allowed for company logo."
+
+msgid "Supported File Types"
+msgstr "Supported File Types"
+
+msgid "Min file size 250 X 250 pixels."
+msgstr "Min file size 250 X 250 pixels."
+
+msgid "Company title"
+msgstr "Company title"
+
+msgid "Here, the companies profiles of talented youth are listed in an alphabetical manner. Know more about them by going through their jobs."
+msgstr "Here, the companies profiles of talented youth are listed in an alphabetical manner. Know more about them by going through their jobs."
+
+msgid "Here, the jobs are listed in an alphabetical manner. "
+msgstr "Here, the jobs are listed in an alphabetical manner. "
+
+msgid "Note: Special characters and number are not allowed."
+msgstr "Note: Special characters and number are not allowed."
+
+msgid "This browser does not support FileReader."
+msgstr "This browser does not support FileReader."
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Choose skills"
+msgstr "Choose skills"
+
+msgid "This field is required."
+msgstr "This field is required."
+
+msgid "Job"
+msgstr "Job"
+
+msgid "Copy"
+msgstr "Copy"
+
+msgid "Create"
+msgstr "Create"
+
+msgid "Job Title"
+msgstr "Job Title"
+
+msgid "Category"
+msgstr "Category"
+
+msgid "Sub Category"
+msgstr "Sub Category"
+
+msgid "Note: Please hold Ctrl / Command to select multiple options."
+msgstr "Note: Please hold Ctrl / Command to select multiple options."
+
+msgid "Job Description"
+msgstr "Job Description"
+
+msgid "Work Type"
+msgstr "Work Type"
+
+msgid "Contact Name"
+msgstr "Contact Name"
+
+msgid "Skills"
+msgstr "Skills"
+
+msgid "Designation"
+msgstr "Designation"
+
+msgid "Experience (In Years)"
+msgstr "Experience (In Years)"
+
+msgid "Annual Salary"
+msgstr "Annual Salary"
+
+msgid "Company Logo"
+msgstr "Company Logo"
+
+msgid "Use Profile Logo"
+msgstr "Use Profile Logo"
+
+msgid "Preview"
+msgstr "Preview"
+
+msgid "Post Job"
+msgstr "Post Job"
+
+msgid "Or"
+msgstr "Or"
+
+msgid "Manage Jobs"
+msgstr "Manage Jobs"
+
+msgid "Create Job"
+msgstr "Create Job"
+
+msgid "Open"
+msgstr "Open"
+
+msgid "Are you sure you want to pay for this job"
+msgstr "Are you sure you want to pay for this job"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Posted On"
+msgstr "Posted On"
+
+msgid "Jobseeker"
+msgstr "Jobseeker"
+
+msgid "Notified Jobseekers"
+msgstr "Notified Jobseekers"
+
+msgid "All"
+msgstr "All"
+
+msgid "New"
+msgstr "New"
+
+msgid "Are you sure you want to activate this job"
+msgstr "Are you sure you want to activate this job"
+
+msgid "Are you sure you want to deactivate this job"
+msgstr "Are you sure you want to deactivate this job"
+
+msgid "No. of Records"
+msgstr "No. of Records"
+
+msgid "Created"
+msgstr "Created"
+
+msgid "Search Views"
+msgstr "Search Views"
+
+msgid "Job Views"
+msgstr "Job Views"
+
+msgid "Applications"
+msgstr "Applications"
+
+msgid "Jobseekers"
+msgstr "Jobseekers"
+
+msgid "Job Details"
+msgstr "Job Details"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Shortlist"
+msgstr "Shortlist"
+
+msgid "Interview"
+msgstr "Interview"
+
+msgid "Offer"
+msgstr "Offer"
+
+msgid "Accept"
+msgstr "Accept"
+
+msgid "Not suitable"
+msgstr "Not suitable"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "New"
+msgstr "New"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "Edit Job"
+msgstr "Edit Job"
+
+msgid "Update Job"
+msgstr "Update Job"
+
+msgid "Select Job Category"
+msgstr "Select Job Category"
+
+msgid "Select Job Sub Category"
+msgstr "Select Job Sub Category"
+
+msgid "Select Work Type"
+msgstr "Select Work Type"
+
+msgid "Select Salary"
+msgstr "Select Salary"
+
+msgid "Enter Location"
+msgstr "Enter Location"
+
+msgid "Are you sure"
+msgstr "Are you sure"
+
+msgid "You want to share your resume and other account details with this employer"
+msgstr "You want to share your resume and other account details with this employer"
+
+msgid "Job Views"
+msgstr "Job Views"
+
+msgid "Job Posted on"
+msgstr "Job Posted on"
+
+msgid "Key skill Required"
+msgstr "Key skill Required"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Recruiter Name"
+msgstr "Recruiter Name"
+
+msgid "Experience (min-max)"
+msgstr "Experience (min-max)"
+
+msgid "Salary (min-max)"
+msgstr "Salary (min-max)"
+
+msgid "Job Highlights"
+msgstr "Job Highlights"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "Save Job"
+msgstr "Save Job"
+
+msgid "Already Saved"
+msgstr "Already Saved"
+
+msgid "Already Applied"
+msgstr "Already Applied"
+
+msgid "Apply Now"
+msgstr "Apply Now"
+
+msgid "Application Received"
+msgstr "Application Received"
+
+msgid "Payment History"
+msgstr "Payment History"
+
+msgid "Sr. No."
+msgstr "Sr. No."
+
+msgid "Plan Name"
+msgstr "Plan Name"
+
+msgid "Amount"
+msgstr "Amount"
+
+msgid "Transaction Id"
+msgstr "Transaction Id"
+
+msgid "Start Date"
+msgstr "Start Date"
+
+msgid "End Date"
+msgstr "End Date"
+
+msgid "Paid On"
+msgstr "Paid On"
+
+msgid "Features"
+msgstr "Features"
+
+msgid "Unlimited"
+msgstr "Unlimited"
+
+msgid "Favorite Candidates"
+msgstr "Favorite Candidates"
+
+msgid "Jobseeker Name"
+msgstr "Jobseeker Name"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "My Account"
+msgstr "My Account"
+
+msgid "Native Location"
+msgstr "Native Location"
+
+msgid "Gender"
+msgstr "Gender"
+
+msgid "Male"
+msgstr "Male"
+
+msgid "Female"
+msgstr "Female"
+
+msgid "Preferred Job Locations"
+msgstr "Preferred Job Locations"
+
+msgid "Expected Salary"
+msgstr "Expected Salary"
+
+msgid "Total Work Experience"
+msgstr "Total Work Experience"
+
+msgid "About Your Self"
+msgstr "About Your Self"
+
+msgid "Cover Letter"
+msgstr "Cover Letter"
+
+msgid "Email Notification"
+msgstr "Email Notification"
+
+msgid "CV Document/Certificates"
+msgstr "CV Document/Certificates"
+
+msgid "You can not add cover latter more than 15"
+msgstr "You can not add cover latter more than 15"
+
+msgid "Expected Salary (In USD)"
+msgstr "Expected Salary"
+
+msgid "Choose File"
+msgstr "Choose File"
+
+msgid "Add Cover Letter"
+msgstr "Add Cover Letter"
+
+msgid "file not allowed for CV Document."
+msgstr "file not allowed for CV Document."
+
+msgid "Maximum 4MB file size allowed for CV Document."
+msgstr "Maximum 4MB file size allowed for CV Document."
+
+msgid "Education Information"
+msgstr "Education Information"
+
+msgid "Qualification"
+msgstr "Qualification"
+
+msgid "Course Name"
+msgstr "Course Name"
+
+msgid "Specialization"
+msgstr "Specialization"
+
+msgid "University/Institute"
+msgstr "University/Institute"
+
+msgid "Passed in"
+msgstr "Passed in"
+
+msgid "Remove"
+msgstr "Remove"
+
+msgid "+ Add More"
+msgstr "+ Add More"
+
+msgid "Select Specialization"
+msgstr "Select Specialization"
+
+msgid "Select Course"
+msgstr "Select Course"
+
+msgid "Select Year"
+msgstr "Select Year"
+
+msgid "Are you sure you want to delete this qualification ?"
+msgstr "Are you sure you want to delete this qualification ?"
+
+msgid "Add another qualification"
+msgstr "Add another qualification"
+
+msgid "Are you sure you want to delete this row?"
+msgstr "Are you sure you want to delete this row?"
+
+msgid "From month should be less than to month"
+msgstr "From month should be less than to month"
+
+msgid "Please check months, it should be less than or equal to current month if you choose current year."
+msgstr "Please check months, it should be less than or equal to current month if you choose current year."
+
+msgid "Experience Information"
+msgstr "Experience Information"
+
+msgid "Experience"
+msgstr "Experience"
+
+msgid "Industry"
+msgstr "Industry"
+
+msgid "Please do not use abbreviations or short-forms"
+msgstr "Please do not use abbreviations or short-forms"
+
+msgid "Functional Area"
+msgstr "Functional Area"
+
+msgid "Role"
+msgstr "Role"
+
+msgid "Duration"
+msgstr "Duration"
+
+msgid "TO"
+msgstr "TO"
+
+msgid "Job Profile"
+msgstr "Job Profile"
+
+msgid "Select Month"
+msgstr "Select Month"
+
+msgid "Select Year"
+msgstr "Select Year"
+
+msgid "Are you sure you want to delete this row ?"
+msgstr "Are you sure you want to delete this row ?"
+
+msgid "Add another experience"
+msgstr "Add another experience"
+
+msgid "Industry"
+msgstr "Industry"
+
+msgid "Curriculum Vitae of"
+msgstr "Curriculum Vitae of"
+
+msgid "Education Qualification"
+msgstr "Education Qualification"
+
+msgid "I have Passed"
+msgstr "I have Passed"
+
+msgid "in"
+msgstr "in"
+
+msgid "from"
+msgstr "from"
+
+msgid "Complete your education qualification to make a CV"
+msgstr "Complete your education qualification to make a CV"
+
+msgid "I have worked as a"
+msgstr "I have worked as a"
+
+msgid "for"
+msgstr "for"
+
+msgid "Functional area"
+msgstr "Functional area"
+
+msgid "Complete your experience details to make a CV"
+msgstr "Complete your experience details to make a CV"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Signature"
+msgstr "Signature"
+
+msgid "Generate CV"
+msgstr "Generate CV"
+
+msgid "Manage Alerts"
+msgstr "Manage Alerts"
+
+msgid "Add Alert"
+msgstr "Add Alert"
+
+msgid "Are you sure you want to Delete ?"
+msgstr "Are you sure you want to Delete ?"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Saved Jobs"
+msgstr "Saved Jobs"
+
+msgid "Last Date"
+msgstr "Last Date"
+
+msgid "Full Time"
+msgstr "Full Time"
+
+msgid "Part Time"
+msgstr "Part Time"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "Applied Date"
+msgstr "Applied Date"
+
+msgid "Job Type"
+msgstr "Job Type"
+
+msgid "Applied"
+msgstr "Applied"
+
+msgid "file not allowed for image."
+msgstr "file not allowed for image."
+
+msgid "MB file size allowed for image."
+msgstr "MB file size allowed for image."
+
+msgid "Change profile picture"
+msgstr "Change profile picture"
+
+msgid "Max Exp(Year)"
+msgstr "Max Exp(Year)"
+
+msgid "Skills selected"
+msgstr "Skills selected"
+
+msgid "Locations selected"
+msgstr "Locations selected"
+
+msgid "Jobs Search By Keyword"
+msgstr "Jobs Search By Keyword"
+
+msgid "Search by Keyword"
+msgstr "Search by Keyword"
+
+msgid "Category you choose"
+msgstr "Category you choose"
+
+msgid "Any Category"
+msgstr "Any Category"
+
+msgid "Location you want"
+msgstr "Location you want"
+
+msgid "You have experience"
+msgstr "You have experience"
+
+msgid "Any Experience"
+msgstr "Any Experience"
+
+msgid "Salary"
+msgstr "Salary"
+
+msgid "All Skill"
+msgstr "All Skill"
+
+msgid "Find Jobs"
+msgstr "Find Jobs"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "LATEST JOBS"
+msgstr "LATEST JOBS"
+
+msgid "Date ASC"
+msgstr "Date ASC"
+
+msgid "Date DESC"
+msgstr "Date DESC"
+
+msgid "Title ASC"
+msgstr "Title ASC"
+
+msgid "Title DESC"
+msgstr "Title DESC"
+
+msgid "Please put valid email address"
+msgstr "Please put valid email address"
+
+msgid "Share to a friend"
+msgstr "Share to a friend"
+
+msgid "There are no jobs matching for your search criteria."
+msgstr "There are no jobs matching for your search criteria."
+
+msgid "Please searched with other options."
+msgstr "Please searched with other options."
+
+msgid "Key skills"
+msgstr "Key skills"
+
+msgid "Sort By"
+msgstr "Sort By"
+
+msgid "Your feedback"
+msgstr "Your feedback"
+
+msgid "Contact no."
+msgstr "Contact no."
+
+msgid "Name"
+msgstr "Name"
+
+msgid "No record found."
+msgstr "No record found."
+
+msgid "This field is required"
+msgstr "This field is required"
+
+msgid "Please enter a valid email address"
+msgstr "Please enter a valid email address"
+
+msgid "Please enter a valid number"
+msgstr "Please enter a valid number"
+
+msgid "Please enter a value less than or equal to"
+msgstr "Please enter a value less than or equal to"
+
+msgid "Please enter a value greater than or equal to"
+msgstr "Please enter a value greater than or equal to"
+
+msgid "Please enter no more than"
+msgstr "Please enter no more than"
+
+msgid "characters"
+msgstr "characters"
+
+msgid "Please enter at least"
+msgstr "Please enter at least"
+
+msgid "Please enter the same value again"
+msgstr "Please enter the same value again"
+
+msgid "Please enter a valid URL"
+msgstr "Please enter a valid URL"
+
+msgid "Please enter only digits"
+msgstr "Please enter only digits"
+
+msgid "Minimum 8 characters. Must include 1 lower and 1 upper case letter. Must include 1 number"
+msgstr "Minimum 8 characters. Must include 1 lower and 1 upper case letter. Must include 1 number"
+
+msgid "Make a CV"
+msgstr "Make a CV"
+
+msgid "Quick links"
+msgstr "Quick links"
+
+msgid "Search Jobs"
+msgstr "Search Jobs"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Education"
+msgstr "Education"
+
+msgid "Applied Jobs"
+msgstr "Applied Jobs"
+
+msgid "Change Password"
+msgstr "Change Password"
+
+msgid "Change Photo"
+msgstr "Change Photo"
+
+msgid "Current Image"
+msgstr "Current Image"
+
+msgid "New Image"
+msgstr "New Image"
+
+msgid "Upload"
+msgstr "Upload"
+
+msgid "Signin with facebook"
+msgstr "Signin with facebook"
+
+msgid "Signin with google"
+msgstr "Signin with google"
+
+msgid "Signin With linkedin"
+msgstr "Signin With linkedin"
+
+msgid "Very weak"
+msgstr "Very weak"
+
+msgid "Weak"
+msgstr "Weak"
+
+msgid "Medium"
+msgstr "Medium"
+
+msgid "Strong"
+msgstr "Strong"
+
+msgid "Very strong"
+msgstr "Very strong"
+
+msgid "If you need any assistance, please e-mail us at"
+msgstr "If you need any assistance, please e-mail us at"
+
+msgid "The"
+msgstr "The"
+
+msgid "Team"
+msgstr "Team"
+
+msgid "Please note: Any emails automatically generated from"
+msgstr "Please note: Any emails automatically generated from"
+
+msgid "may include one-click links. These links may allow you to access your account without entering your login details. As such, please do not forward these email to anyone."
+msgstr "may include one-click links. These links may allow you to access your account without entering your login details. As such, please do not forward these email to anyone."
+
+msgid "Copyright"
+msgstr "Copyright"
+
+msgid "All Rights Reserved."
+msgstr "All Rights Reserved."
+
+msgid "Favorites List"
+msgstr "Favorites List"
+
+msgid "Change Logo"
+msgstr "Change Logo"
+
+msgid "My Dashboard"
+msgstr "My Dashboard"
+
+msgid "Employer"
+msgstr "Employer"
+
+msgid "Purchase Plan"
+msgstr "Purchase Plan"
+
+msgid "You do not have any plan, please purchase any suitable plan to access website functionality."
+msgstr "You do not have any plan, please purchase any suitable plan to access website functionality."
+
+msgid "Your current plan has been expiered, so please upgrade your plan first and than try to access this functionality."
+msgstr "Your current plan has been expiered, so please upgrade your plan first and than try to access this functionality."
+
+msgid "You have already posted maximum number of jobs as per your plan, please upgrade your plan to post more jobs."
+msgstr "You have already posted maximum number of jobs as per your plan, please upgrade your plan to post more jobs."
+
+msgid "You can not post new job now, please upgrade your plan to post more jobs."
+msgstr "You can not post new job now, please upgrade your plan to post more jobs."
+
+msgid "You have already download maximum number of resume as per your plan, please upgrade your plan to download this document."
+msgstr "You have already download maximum number of resume as per your plan, please upgrade your plan to download this document."
+
+msgid "You can not download this document, please upgrade your plan to download this document."
+msgstr "You can not download this document, please upgrade your plan to download this document."
+
+msgid "You can not access search candidate feature, please upgrade your plan to access this feature."
+msgstr "You can not access search candidate feature, please upgrade your plan to access this feature."
+
+msgid "No record found"
+msgstr "No record found"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Too short"
+msgstr "Too short"
+
+msgid "Purchase Membership Plan"
+msgstr "Purchase Membership Plan"
+
+msgid "Apply Immediately"
+msgstr "Apply Immediately"
+
+msgid "If you select this option plan will be applied from today and any remaining feature of your current plan will not be carry forwarded."
+msgstr "If you select this option plan will be applied from today and any remaining feature of your current plan will not be carry forwarded."
+
+msgid "Note: If you upgrade plan than it will be applied after your current plan end date."
+msgstr "Note: If you upgrade plan than it will be applied after your current plan end date."
+
+msgid "Currently no plan is activated by the admin"
+msgstr "Currently no plan is activated by the admin"
+
+msgid "Buy this Plan"
+msgstr "Buy this Plan"
+
+msgid "You can not buy this plan because you already purchesed one plan in advanced."
+msgstr "You can not buy this plan because you already purchesed one plan in advanced."
+
+msgid "This plan will apply from today and any remaining feature of the current plan will not carry forward"
+msgstr "This plan will apply from today and any remaining feature of the current plan will not carry forward"
+
+msgid "This plan will be applied from"
+msgstr "This plan will be applied from"
+
+msgid "Are you sure you want to buy"
+msgstr "Are you sure you want to buy"
+
+msgid "Please wait, We are redirecting you to payment gateway"
+msgstr "Please wait, We are redirecting you to payment gateway"
+
+msgid "Please do not refresh or click on back browser button"
+msgstr "Please do not refresh or click on back browser button"
+
+msgid "Company name"
+msgstr "Company name"
+
+msgid "Company Profile"
+msgstr "Company Profile"
+
+msgid "Choose a designation"
+msgstr "Choose a designation"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Print"
+msgstr "Print"
+
+msgid "Select Total Experience"
+msgstr "Select Total Experience"
+
+msgid "Add Alert"
+msgstr "Add Alert"
+
+msgid "Edit Alert"
+msgstr "Edit Alert"
+
+msgid "Please add a cover letter or apply without cover letter."
+msgstr "Please add a cover letter or apply without cover letter."
+
+msgid "Job Application Confirmation"
+msgstr "Job Application Confirmation"
+
+msgid "Please Select the Cover Letter"
+msgstr "Please Select the Cover Letter"
+
+msgid "Rating"
+msgstr "Rating"
+
+msgid "Select Status"
+msgstr "Select Status"
+
+msgid "Are you sure you want to Send Email"
+msgstr "Are you sure you want to Send Email"
+
+msgid "Send Email"
+msgstr "Send Email"
+
+msgid "Jobseekers"
+msgstr "Jobseekers"
+
+msgid "Jobseeker Search"
+msgstr "Jobseeker Search"
+
+msgid "Keywords"
+msgstr "Keywords"
+
+msgid "Enter Keyword(s)"
+msgstr "Enter Keyword(s)"
+
+msgid "Select Experience"
+msgstr "Select Experience"
+
+msgid "Select  Expected Salary"
+msgstr "Select  Expected Salary"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Add to Favorite"
+msgstr "Add to Favorite"
+
+msgid "Already Added"
+msgstr "Already Added"
+
+msgid "Contact"
+msgstr "Contact"
+
+msgid "Jobs posted by"
+msgstr "Jobs posted by"
+
+msgid "more than 15 years"
+msgstr "more than 15 years"
+
+msgid "Keyskills"
+msgstr "Keyskills"
+
+msgid "Please Select the Cover Letter."
+msgstr "Please Select the Cover Letter."
+
+msgid "Passed"
+msgstr "Passed"
+
+msgid "January"
+msgstr "January"
+
+msgid "Febuary"
+msgstr "Febuary"
+
+msgid "March"
+msgstr "March"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "May"
+
+msgid "June"
+msgstr "June"
+
+msgid "July"
+msgstr "July"
+
+msgid "August"
+msgstr "August"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "October"
+
+msgid "November"
+msgstr "November"
+
+msgid "Decemeber"
+msgstr "Decemeber"
+
+msgid "Read More"
+msgstr "Read More"
+
+msgid "of"
+msgstr "of"
+
+msgid "Subject"
+msgstr "Subject"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Contact Form"
+msgstr "Contact Form"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "Contact Us"
+msgstr "Contact Us"
+
+msgid "Email Address is not valid"
+msgstr "Email Address is not valid"
+
+msgid "Interest Categories"
+msgstr "Interest Categories"
+
+msgid "Select Interest Categories"
+msgstr "Select Interest Categories"
+
+msgid "Rating successfully given to candidate."
+msgstr "Rating successfully given to candidate."
+
+msgid "Send Mail"
+msgstr "Send Mail"
+
+msgid "Save User"
+msgstr "Save User"
+
+msgid "Back To Jobs"
+msgstr "Back To Jobs"
+
+msgid "About Candidate"
+msgstr "About Candidate"
+
+msgid "Favorite"
+msgstr "Favorite"
+
+msgid "Work Experience"
+msgstr "Work Experience"
+
+msgid "Send Mail To"
+msgstr "Send Mail To"
+
+msgid "Make Payment"
+msgstr "Make Payment"
+
+msgid "Pay"
+msgstr "Pay"
+
+msgid "via Stripe Payment Gateway"
+msgstr "via Stripe Payment Gateway"
+
+msgid "Final Payable Amount"
+msgstr "Final Payable Amount"
+
+msgid "Name on Card"
+msgstr "Name on Card"
+
+msgid "Credit Card Number"
+msgstr "Credit Card Number"
+
+msgid "Please wait..."
+msgstr "Please wait..."
+
+msgid "CVV Number"
+msgstr "CVV Number"
+
+msgid "Valid Thru(Month/Year)"
+msgstr "Valid Thru(Month/Year)"
+
+msgid "Pay Now"
+msgstr "Pay Now"
+
+msgid "All Designations"
+msgstr "All Designations"
+
+msgid "All Worktype"
+msgstr "All Worktype"
+
+msgid "Please fill this field with international phone number format."
+msgstr "Please fill this field with international phone number format."
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Name and surname"
+msgstr "Name and surname"
+
+msgid "Phone Number"
+msgstr "Phone Number"
+
+msgid "Education Specialization"
+msgstr "Education Specialization"
+
+msgid "Salary Range"
+msgstr "Salary Range"
+
+msgid "Business"
+msgstr "Business"
+
+msgid "Type of contracts"
+msgstr "Type of contracts"
+
+msgid "Invoice"
+msgstr "Invoice"
+
+msgid "You payment must be sent to"
+msgstr "You payment must be sent to"
+
+msgid "Invoice No"
+msgstr "Invoice No"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Download Invoice"
+msgstr "Download Invoice"
+
+msgid "User Name"
+msgstr "User Name"
+
+msgid "Mail Detail"
+msgstr "Mail Detail"
+
+msgid "Mail History"
+msgstr "Mail History"
+
+msgid "An employer send you the mail on"
+msgstr "An employer send you the mail on"
+
+msgid "An jobseeker send you the mail on"
+msgstr "An jobseeker send you the mail on"
+
+msgid "Here is the detail"
+msgstr "Here is the detail"
+
+msgid "Dear"
+msgstr "Dear"
+
+msgid "to jobseeker details"
+msgstr "to jobseeker details"
+
+msgid "on"
+msgstr "on"
+
+msgid "A jobseeker applied for a job"
+msgstr "A jobseeker applied for a job"
+
+msgid "Send"
+msgstr "Send"
+
+msgid "To"
+msgstr "To"
+
+msgid "Multiple Files"
+msgstr "Multiple Images"
+
+msgid "Select multiple file with Ctrl press,"
+msgstr "Select multiple file with Ctrl press,"
+
+msgid "Min Salary"
+msgstr "Min Salary"
+
+msgid "Max Salary"
+msgstr "Max Salary"
+
+msgid "Worktype selected"
+msgstr "Worktype selected"
+
+msgid "Contact Company"
+msgstr "Contact Company"
+
+msgid "Year"
+msgstr "Year"
+
+msgid "Reason for leaving"
+msgstr "Reason for leaving"
+
+msgid "Profile"
+msgstr "Profile"
+
+msgid "Plan"
+msgstr "Plan"
+
+msgid "Change photo"
+msgstr "Change photo"
+
+msgid "Upload your Establishment photo here"
+msgstr "Upload your Establishment photo here"
+
+msgid "Payment Method"
+msgstr "Payment Method"
+
+msgid "Min file size"
+msgstr "Min file size"
+
+msgid "pixels"
+msgstr "pixels"
+
+msgid "for image"
+msgstr "for image"
+
+msgid "Cover Letter Title"
+msgstr "Cover Letter Title"
+
+msgid "Professional Registration"
+msgstr "Professional Registration"
+
+msgid "Name of Professional Governing Body"
+msgstr "Name of Professional Governing Body"
+
+msgid "Add another Professional Registration"
+msgstr "Add another Professional Registration"
+
+msgid "The information in this application form is true and complete. I agree that any deliberate omission, falsification or misrepresentation in the application form will be grounds for rejecting this application or subsequent dismissal if employed by the organisation. Where applicable, I consent that the organisation can seek clarification regarding professional registration details."
+msgstr "The information in this application form is true and complete. I agree that any deliberate omission, falsification or misrepresentation in the application form will be grounds for rejecting this application or subsequent dismissal if employed by the organisation. Where applicable, I consent that the organisation can seek clarification regarding professional registration details."
+
+msgid "Declaration"
+msgstr "Declaration"
+
+msgid "I agree to the above declaration."
+msgstr "I agree to the above declaration."
+
+msgid "Please Login"
+msgstr "Please Login"
+
+msgid "yrs"
+msgstr "yrs"
+
+msgid "Location with Radius"
+msgstr "Location with Radius"
+
+msgid "Establishment photo"
+msgstr "Establishment photo"
+
+msgid "Upload Establishment photo"
+msgstr "Upload Establishment photo"
+
+msgid "YouTube URL"
+msgstr "YouTube URL"
+
+msgid "Related Jobs"
+msgstr "Related Jobs"
+
+msgid "Date Posted"
+msgstr "Date Posted"
+
+msgid "Job Overview"
+msgstr "Job Overview"
+
+msgid "Today"
+msgstr "Today"
+
+msgid "Days ago"
+msgstr "Days ago"
+
+msgid "from"
+msgstr "from"
+
+msgid "since"
+msgstr "since"
+
+msgid "Curriculum Vitae (CV)"
+msgstr "Curriculum Vitae (CV)"
+
+msgid "Upload Video"
+msgstr "Upload Video"
+
+msgid "file not allowed."
+msgstr "file not allowed."
+
+msgid "file size allowed for file."
+msgstr "file size allowed for file."
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Job Expired"
+msgstr "Job Expired"
+
+msgid "You have already applied maximum number of jobs as per your plan, please upgrade your plan to apply more jobs."
+msgstr "You have already applied maximum number of jobs as per your plan, please upgrade your plan to apply more jobs."
+
+msgid "You can not apply a job now, please upgrade your plan to apply more jobs."
+msgstr "You can not apply a job now, please upgrade your plan to apply more jobs."
+
+msgid "Import Jobseekers"
+msgstr "Import Jobseekers"
+
+msgid "Sample File download"
+msgstr "Sample File download"
+
+msgid "Import File"
+msgstr "Import File"
+
+msgid "Download sample xls file, put value under each column and do not add/remove or change header in xls."
+msgstr "Download sample xls file, put value under each column and do not add/remove or change header in xls."
+
+msgid "Welcome"
+msgstr "Welcome"
+
+msgid "Welcome"
+msgstr "Welcome"

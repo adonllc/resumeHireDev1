@@ -1,0 +1,112 @@
+.upload-statusbar {
+border: 1px solid #0ba1b5;
+margin-top: 10px;
+width: 100%;
+margin-right: 10px;
+margin: 5px 5px 5px 0;
+-moz-border-radius: 4px;
+-webkit-border-radius: 4px;
+border-radius: 4px;
+padding: 5px 5px 5px 5px
+}
+.upload-filename {
+width: 100%;
+height: auto;
+margin: 0 5px 5px 10px;
+color: #807579
+}
+.upload-progress {
+margin: 0 10px 5px 10px;
+position: relative;
+width: 74%;
+border: 1px solid #ddd;
+padding: 1px;
+border-radius: 3px;
+display: inline-block
+}
+.upload-bar {
+background-color: #0ba1b5;
+width: 0;
+height: 20px;
+border-radius: 3px;
+color:#FFFFFF;
+}
+.upload-percent {
+position: absolute;
+display: inline-block;
+top: 3px;
+left: 48%
+}
+.upload-red {
+-moz-box-shadow: inset 0 39px 0 -24px #e67a73;
+-webkit-box-shadow: inset 0 39px 0 -24px #e67a73;
+box-shadow: inset 0 39px 0 -24px #e67a73;
+background-color: #e4685d;
+-moz-border-radius: 4px;
+-webkit-border-radius: 4px;
+border-radius: 4px;
+display: inline-block;
+color: #fff;
+font-family: arial;
+font-size: 13px;
+font-weight: normal;
+padding: 4px 15px;
+text-decoration: none;
+text-shadow: 0 1px 0 #b23e35;
+cursor: pointer;
+vertical-align: top;
+margin-right:5px;
+}
+.upload-green {
+background-color: #77b55a;
+-moz-border-radius: 4px;
+-webkit-border-radius: 4px;
+border-radius: 4px;
+margin: 0;
+padding: 0;
+display: inline-block;
+color: #fff;
+font-family: arial;
+font-size: 13px;
+font-weight: normal;
+padding: 4px 15px;
+text-decoration: none;
+cursor: pointer;
+text-shadow: 0 1px 0 #5b8a3c;
+vertical-align: top;
+margin-right:5px;
+}
+.upload {
+    cursor: pointer;
+    margin: 0 10px 0px 0;
+    display: inline-block;
+    color: #888;
+    text-decoration: none;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    padding: 6px 10px 6px 10px;
+    color: #fff;
+    vertical-align: middle;
+    background: #fc595a;
+    font-family: 'open_sansregular';
+  }
+  
+.upload:hover {
+     /* background: #28759D;
+      -moz-box-shadow: 0 2px 0 0 #15719f;
+      -webkit-box-shadow: 0 2px 0 0 #15719f;
+      box-shadow: 0 2px 0 0 #15719f;*/
+}
+
+.ajax-upload-dragdrop
+{
+
+	border: 1px solid #95bad3;
+    border-radius: 0;
+	width:100%;
+	color: #DADCE3;
+	text-align:left;
+	vertical-align:middle; border-radius:5px;
+	padding:5px 5px 5px 5px; clear:both;
+}

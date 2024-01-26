@@ -1,0 +1,464 @@
+msgid "Over 7 million jobs"
+msgstr "Plus de 7 millions d'emplois"
+
+msgid "More than 20,000 locations"
+msgstr "Plus de 20 00 entreprises à travers le monde"
+
+msgid "Easy to apply online"
+msgstr "Facile à postuler en ligne"
+
+msgid "Jobs Search By Keyword"
+msgstr "Rechercher par mot-clé"
+
+msgid "Category you choose"
+msgstr "Catégorie que vous choisissez"
+
+msgid "Location you want"
+msgstr "Localisation souhaitée"
+
+msgid "Best Place To Find The Companies"
+msgstr "Meilleur endroit pour trouver les entreprises"
+
+msgid "No record found"
+msgstr "Aucune Offre Trouvée"
+
+msgid "Latest Jobs"
+msgstr "Dernières offres d'emploi"
+
+msgid "Recent Jobseeker"
+msgstr "Derniers candidats inscrits"
+
+msgid "Location"
+msgstr "Localisation"
+
+msgid "Designation"
+msgstr "Métier"
+
+msgid "Education"
+msgstr "Formation"
+
+msgid "Contact"
+msgstr "Contact"
+
+msgid "Recent Employer"
+msgstr "Derniers recruteurs inscrits"
+
+msgid "About company"
+msgstr "À propos de l'entreprise"
+
+msgid "Category"
+msgstr "Catégorie"
+
+msgid "Company"
+msgstr "Entreprise"
+
+msgid "Find Jobs"
+msgstr "Trouver un emploi"
+
+msgid "Logout"
+msgstr "Déconnexion"
+
+msgid "Jobseeker Login"
+msgstr "Candidat"
+
+msgid "jobseeker Sign Up"
+msgstr "Candidat"
+
+msgid "Employer Login"
+msgstr "Recruteur"
+
+msgid "Jobseekers"
+msgstr "Candidat"
+
+msgid "Blog"
+msgstr "Blog"
+
+msgid "Login to find & apply for Jobs"
+msgstr "Connectez-vous pour trouver et postuler à des offres d'emploi"
+
+msgid "Create Jobseeker account"
+msgstr "Créer un compte candidat"
+
+msgid "Login to post Jobs for FREE"
+msgstr "Connectez-vous pour publier des offres GRATUITEMENT"
+
+msgid "Create Employer account"
+msgstr "Créer un compte recruteur"
+
+msgid "All Rights Reserved"
+msgstr "Tous droits sont réservés"
+
+msgid "Powered by"
+msgstr "Réalisé par"
+
+msgid "login"
+msgstr "s'identifier"
+
+msgid "forgot password"
+msgstr "mot de passe oublié"
+
+msgid "Back to"
+msgstr "Retour à"
+
+msgid "About Us"
+msgstr "À propos de nous"
+
+msgid "Saved Jobs"
+msgstr "Emplois enregistrés"
+
+msgid "Companies"
+msgstr "Entreprises"
+
+msgid "Career tools"
+msgstr "Outils de carrière"
+
+msgid "Career Resources"
+msgstr "Ressources de carrière"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Benefits"
+msgstr "Avantages"
+
+msgid "Post a Job"
+msgstr "Publier une offre"
+
+msgid "Privacy Policy"
+msgstr "Mentions Légales"
+
+msgid "Find a Job"
+msgstr "Trouver un emploi"
+
+msgid "Resignation Sample"
+msgstr "Exemple de lettre de démission"
+
+msgid "Resume Sample"
+msgstr "Exemple de CV"
+
+msgid "Contact us"
+msgstr "Contactez nous"
+
+msgid "Sitemap"
+msgstr "Plan du site"
+
+msgid "Terms and Conditions"
+msgstr "Conditions Générales d'Utilisation"
+
+msgid "Jobseeker Register"
+msgstr "Registre des candidats"
+
+msgid "Jobs by Industry"
+msgstr "Emplois par secteur d'activité"
+
+msgid "Jobs by Functional Area"
+msgstr "Emplois par domaine fonctionnel"
+
+msgid "Jobs by City"
+msgstr "Emplois par ville"
+
+msgid "How"
+msgstr "Comment"
+
+msgid "Works"
+msgstr "Emplois"
+
+msgid "Share your location with us for more relevant jobs"
+msgstr "Partagez votre localisation avec nous pour des emplois plus pertinents"
+
+msgid "You can turn them off anytime from browser settings"
+msgstr "Vous pouvez les désactiver à tout moment à partir des paramètres du navigateur"
+
+msgid "Sure"
+msgstr "Oui"
+
+msgid "Later"
+msgstr "Plus tard"
+
+msgid "Job Site Script"
+msgstr "JOB AT HOME"
+
+msgid "Sign In"
+msgstr "Se connecter"
+
+msgid "Sign Up"
+msgstr "S'inscrire"
+
+msgid "Create Job alert"
+msgstr "Créer une alerte d'emploi"
+
+msgid "Browse jobs"
+msgstr "Nos offres d'emploi"
+
+msgid "Browse all jobs"
+msgstr "Toutes les offres"
+
+msgid "Jobs by Company"
+msgstr "Offres par entreprise"
+
+msgid "Jobs by Category"
+msgstr "Offres par catégorie"
+
+msgid "Jobs by Designation"
+msgstr "Offres par métier"
+
+msgid "Quick Links"
+msgstr "Liens rapides"
+
+msgid "Jobs for you"
+msgstr "Des emplois pour vous"
+
+msgid "Jobs by Skill"
+msgstr "Offres par compétence"
+
+msgid "Follow Us"
+msgstr "Suivez nous"
+
+msgid "English"
+msgstr "English"
+
+msgid "French"
+msgstr "Français"
+
+msgid "Choose a job you love, You will never have to work daily"
+msgstr "Choisissez de prendre internet pour aller au travail."
+
+msgid "Next"
+msgstr "Prochain"
+
+msgid "Previous"
+msgstr "précédent"
+
+msgid "Your future starts"
+msgstr "Votre avenir commence"
+
+msgid "here now"
+msgstr "chez vous!"
+
+msgid "All Jobs"
+msgstr "Toutes les offres"
+
+msgid "Popular Jobs Categories"
+msgstr "Jobs les plus recherchés"
+
+msgid "Jobs"
+msgstr "Emplois"
+
+msgid "Create an account"
+msgstr "Créer un compte"
+
+msgid "Search desired job"
+msgstr "Rechercher un job"
+
+msgid "Send your resume"
+msgstr "Envoyer votre CV"
+
+msgid "Why Choose US"
+msgstr "Pourquoi nous choisir"
+
+msgid "Easy Job Search"
+msgstr "Trouver facilement un emploi"
+
+msgid "No need for recurring contracts. You can order just one time, and if you like the service you can continue to order at your schedule of choice."
+msgstr "Pas besoin de vous déplacer, trouvez un emploi où que vous soyez.Nous vous offrons l'opportunité de trouver un emploi cadre en télétravail."
+
+msgid "recent hot jobs"
+msgstr "Derniers jobs publiés"
+
+msgid "We found"
+msgstr "Nous avons trouvé"
+
+msgid "available job(s) for you"
+msgstr "Offres d'emploi disponibles pour vous"
+
+msgid "hiring companies"
+msgstr "Ces entreprises qui embauchent"
+
+msgid "What people think about us.."
+msgstr "Ce que les gens pensent de nous .."
+
+msgid "Enquiry Management"
+msgstr "Productivité accrue"
+
+msgid "No complex option prices or transportation fees prevalent in other services. The fee per hour is mentioned on Helper’s profile page, and that’s all you pay for"
+msgstr "Plus besoin pour le candidat de se rendre dans l’entreprise et au recruteur d’organiser un rendez-vous dans ses locaux.Planifier vos entretiens en ligne."
+
+msgid "Interview Scheduling"
+msgstr "Entretiens 100% en ligne"
+
+msgid "Search"
+msgstr "Rechercher"
+
+msgid "show more jobs"
+msgstr "Plus d’emplois"
+
+msgid "Explore All Categories"
+msgstr "Explorer toutes les catégories"
+
+msgid "More Companies"
+msgstr "Plus d'entreprises"
+
+msgid "How it works"
+msgstr "Comment ça marche"
+
+msgid "Find Create Job Seeker Account from thousands of job boards, staffing agencies, recruiting firms and company."
+msgstr "Créez votre compte candidat en quelques clics et gérez votre espace candidat simplement."
+
+msgid "Mauris est leo, porttitor eu elementum quis, suscipit quis metus. Nam rhoncus augue magna, tincidunt lacinia sapien malesuad."
+msgstr " Depuis votre espace candidat vous avez la possibilité de rechercher des offres d'emploi et de postuler directement."
+
+msgid "Aliquam nec eros tempus, euismod nisl nec, venenatis mi. Nulla facilisi. Pellentesque eu erat sit amet sapien lacinia lacinia."
+msgstr "Recevez une réponse du recruteur dans les heures qui suivent."
+
+msgid "The Enquiry Management System is the first completely off-site hosted administration application (hardware, software & data)."
+msgstr "Loin des transports, des ambiances souvent interruptives des open-spaces, gagnez en concentration et par extension en productivité en travaillant en télétravail."
+
+msgid "By accepting telework, I wanted to demonstrate the high level of trust I have in my teams, which generates a higher investment and better performance."
+msgstr "En acceptant le télétravail, j’ai voulu démontrer le haut niveau de confiance que j’ai en mes équipes, ce qui génère un investissement supérieur et de meilleures performances."
+
+msgid "Telework offers our company a real helps to retain our employees."
+msgstr "Le télétravail présente pour notre entreprise un véritable “atout-séduction” pour attirer les meilleurs talents quel que soit leur localisation géographique, et participe à fidéliser nos salariés."
+
+msgid "Even working remotely, staying connected with colleagues, associates, hierarchy is a key point. It is part of both efficiency and trust. Technologies are available today to meet this need to stay in touch even when working from home."
+msgstr "Même en travaillant à distance, rester connecté avec ses collègues, collaborateurs, hiérarchie est un point essentiel. Cela participe tant de l'efficacité que de la relation de confiance. Les technologies sont disponibles aujourd'hui pour répondre à ce besoin de rester contact même en travaillant de chez soi."
+
+msgid "Job Search by"
+msgstr "Recherche d'emploi par"
+
+msgid "Categories"
+msgstr "Les catégories"
+
+msgid "All categories"
+msgstr "Toutes catégories"
+
+msgid "All companies"
+msgstr "Toutes les entreprises"
+
+msgid "Company"
+msgstr "Entreprise"
+
+msgid "Location"
+msgstr "Emplacement"
+
+msgid "All locations"
+msgstr "Tous les lieux"
+
+msgid "View All"
+msgstr "Voir tout"
+
+msgid "We offer 2,989 job vacancies right now!"
+msgstr "Nous offrons actuellement 2 989 offres d'emploi!"
+
+msgid "More than 20,000 locations"
+msgstr "Plus de 20 000 emplacements"
+
+msgid "Easy to apply online"
+msgstr "Facile à appliquer en ligne"
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "Job Vacancy"
+msgstr "Offre d'emploi"
+
+msgid "Employment"
+msgstr "Emploi"
+
+msgid "Companies We've Helped"
+msgstr "Entreprises que nous avons aidées"
+
+msgid "Top"
+msgstr "Haut"
+
+msgid "Register"
+msgstr "registre"
+
+msgid "Login"
+msgstr "S'identifier"
+
+msgid "Jobs Available"
+msgstr "Emplois disponibles"
+
+msgid "Finding your next job or career"
+msgstr "Trouver votre prochain emploi ou carrière"
+
+msgid "Search here ,skills,designation, companies.."
+msgstr "Recherche ici, compétences, désignation, entreprises .."
+
+msgid "Find jobs by category"
+msgstr "Trouver des emplois par catégorie"
+
+msgid "Featured Jobs"
+msgstr "Emplois en vedette"
+
+msgid "Membership Plan"
+msgstr "Plan d'adhésion"
+
+msgid "Success Stories"
+msgstr "Réussites"
+
+msgid "Companies have already used"
+msgstr "Les entreprises ont déjà utilisé"
+
+msgid "See Why Over"
+msgstr "Découvrez pourquoi"
+
+msgid "Top Employers"
+msgstr "Top employeurs"
+
+msgid "Get your best job in here"
+msgstr "Obtenez votre meilleur emploi ici"
+
+msgid "Browse Our"
+msgstr "Parcourez notre"
+
+msgid "Latest Jobs"
+msgstr "Dernières offres d'emploi"
+
+msgid "and find your dream job"
+msgstr "et trouvez l'emploi de vos rêves"
+
+msgid "Download our app"
+msgstr "Téléchargez notre appli"
+
+msgid "Explore All Categories"
+msgstr "Alle Kategorien erkunden"
+
+msgid "Contact info"
+msgstr "Informations de contact"
+
+msgid "Phone"
+msgstr "Téléphone"
+
+msgid "Send Message"
+msgstr "Envoyer le message"
+
+msgid "Main Pages"
+msgstr "Pages principales"
+
+msgid "Employer Register"
+msgstr "Registre des employeurs"
+
+msgid "Find jobs with your skills, save and apply on jobs easily. We allow candidates to update their Experience, Education, Skills and other professional details which will make you visible to companies easily."
+msgstr "Trouvez des emplois avec vos compétences, enregistrez et postulez facilement sur des emplois. Nous permettons aux candidats de mettre à jour leur expérience, leur formation, leurs compétences et d'autres détails professionnels qui vous rendront facilement visible pour les entreprises."
+
+msgid "Connect to opportunities and show your professional potential to the world with us. We make us easy to view, find and apply on the latest jobs in the market."
+msgstr "Connectez-vous aux opportunités et montrez votre potentiel professionnel au monde avec nous. Nous facilitons la consultation, la recherche et les candidatures sur les derniers emplois du marché."
+
+msgid "Available"
+msgstr "Disponible"
+
+msgid "No Announcements available"
+msgstr "Aucune annonce disponible"
+
+msgid "Job aspirants can search Jobs using keyword."
+msgstr "Les aspirants à l'emploi peuvent rechercher des emplois à l'aide d'un mot-clé."
+
+msgid "Job Seeker can apply for Job, which is a potential match for their profile."
+msgstr "Le demandeur d'emploi peut postuler pour un emploi, qui correspond potentiellement à son profil."
+
+msgid "Job seeker can create account with basic user information."
+msgstr "Le demandeur d'emploi peut créer un compte avec des informations utilisateur de base."
+
+msgid "Get started now"
+msgstr "Commencez maintenant"

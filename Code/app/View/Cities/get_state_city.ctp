@@ -1,0 +1,1 @@
+<?php echo $this->Form->input($model.'.city_id', array('type' => 'select', 'options' => $cityList, 'label' => false, 'div' => false, 'class' => "form-control required", 'empty' => 'Select City', 'id' => 'UserCityId')) ?>

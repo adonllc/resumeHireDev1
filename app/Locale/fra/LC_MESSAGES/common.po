@@ -1,0 +1,67 @@
+msgid "Reply"
+msgstr "Répondre"
+
+msgid "Reply Mail"
+msgstr "Répondre au message"
+
+msgid "to"
+msgstr "au"
+
+msgid "Unlimited"
+msgstr "Illimité"
+
+msgid "Jobseekers"
+msgstr "Rechercher un candidat"
+
+msgid "EXPERIENCE"
+msgstr "EXPÉRIENCE"
+
+msgid "EDUCATION SPECIALIZATION"
+msgstr "FORMATION"
+
+msgid "SKILLS"
+msgstr "COMPÉTENCES"
+
+msgid "Choose skills"
+msgstr "Vos compétences"
+
+msgid "Cover Letter Title"
+msgstr "Titre"
+
+msgid "Cover Letter"
+msgstr "Lettre de motivation"
+
+msgid "Delete Account"
+msgstr "Supprimer son compte"
+
+msgid "Choose Designation"
+msgstr "Choisir un métier"
+
+msgid "Favorite Candidates"
+msgstr "Candidats favoris"
+
+msgid "Delete Your Account"
+msgstr "Supprimer votre compte"
+
+msgid "30 days unlimited job posting."
+msgstr "Publication illimitée d’offres d’emploi pendant 1 mois."
+
+msgid "Find the perfect candidate with JOB@HOME's premier online CV database."
+msgstr "Accès à la Cvthèque Job@Home."
+
+msgid "Unlimited CV downloads."
+msgstr "Téléchargement illimité des des des CV des candidats."
+
+msgid "Advertise your job at the jobseekers and get qualified answers the same day"
+msgstr "Alerte e-mail: vos offres d’emploi sont envoyées automatiquement et de manière ciblée par email aux candidats inscrits au service d’alerte email."
+
+msgid "Legal assistance for hiring a foreign employee."
+msgstr "Accompagnement juridique pour l’embauche d’un salarié étranger en télétravail."
+
+msgid "Reason for leaving"
+msgstr "Raisons"
+
+msgid "Delete account"
+msgstr "Valider"
+
+

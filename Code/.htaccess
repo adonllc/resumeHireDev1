@@ -1,0 +1,14 @@
+<IfModule mod_rewrite.c>
+
+    RewriteCond     %{SERVER_PORT} ^80$
+RewriteRule     ^(.*)$ https://%{SERVER_NAME}%{REQUEST_URI} [L,R]
+
+    RewriteEngine on
+    #RewriteCond %{HTTPS} off
+    #RewriteRule .* https://%{HTTP_HOST}%{REQUEST_URI} 
+
+
+   RewriteRule    ^$ app/webroot/    [L]
+   RewriteRule    (.*) app/webroot/$1 [L]
+
+</IfModule>

@@ -1,0 +1,92 @@
+msgid "Reply"
+msgstr "Antworten"
+
+msgid "Reply Mail"
+msgstr "E-Mail beantworten"
+
+msgid "to"
+msgstr "zu"
+
+msgid "Unlimited"
+msgstr "Unbegrenzt"
+
+msgid "Jobseekers"
+msgstr "Jobsuchende"
+
+msgid "EXPERIENCE"
+msgstr "ERFAHRUNG"
+
+msgid "EDUCATION SPECIALIZATION"
+msgstr "SPEZIALISIERUNG DER BILDUNG"
+
+msgid "SKILLS"
+msgstr "KOMPETENZEN"
+
+msgid "Choose skills"
+msgstr "Wähle Fähigkeiten"
+
+msgid "Cover Letter Title"
+msgstr "Titel des Anschreibens"
+
+msgid "Cover Letter"
+msgstr "Motivationsschreiben"
+
+msgid "Delete Account"
+msgstr "Konto löschen"
+
+msgid "Choose Designation"
+msgstr "Wähle Bezeichnung"
+
+msgid "Favorite Candidates"
+msgstr "Lieblingskandidaten"
+
+msgid "Delete Your Account"
+msgstr "Lösche deinen Account"
+
+msgid "30 days unlimited job posting."
+msgstr "30 Tage unbegrenzte Stellenausschreibung."
+
+msgid "Find the perfect candidate with JOB@HOME's premier online CV database."
+msgstr "Finden Sie mit JOB @ HOMEs erster Online-CV-Datenbank den perfekten Kandidaten."
+
+msgid "Unlimited CV downloads."
+msgstr "Unbegrenzte Downloads."
+
+msgid "Advertise your job at the jobseekers and get qualified answers the same day"
+msgstr "Bewerben Sie sich bei den Arbeitssuchenden und erhalten Sie am selben Tag qualifizierte Antworten"
+
+msgid "Legal assistance for hiring a foreign employee."
+msgstr "Rechtshilfe bei der Einstellung eines ausländischen Mitarbeiters"
+
+msgid "Reason for leaving"
+msgstr "Grund zu gehen"
+
+msgid "Delete account"
+msgstr "Konto löschen"
+
+msgid "Welcome"
+msgstr "Welcome"
+
+msgid "Welcome"
+msgstr "Welcome"
+
+msgid "Welcome"
+msgstr "Welcome"
+
+msgid "Welcome"
+msgstr "Welcome"
+
+msgid "Welcome"
+msgstr "Welcome"
+
+msgid "Welcome"
+msgstr "Welcome"
+
+msgid "Welcome"
+msgstr "Welcome"
+
+msgid "Welcome"
+msgstr "Welcome"
+
+msgid "Welcome"
+msgstr "Welcome"

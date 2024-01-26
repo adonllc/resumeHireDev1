@@ -1,0 +1,587 @@
+msgid "Please check the email id, it does not belongs to jobseeker account."
+msgstr "Veuillez vérifier l'identifiant de messagerie, qui appartient aux détails de votre compte, ne devrait pas être utilisé auparavant en tant que demandeur d'emploi ou employeur."
+
+msgid "Please check the email id, it does not belongs to employer account."
+msgstr "Veuillez vérifier l'identifiant de messagerie, qui appartient aux détails de votre compte, ne devrait pas être utilisé auparavant en tant que demandeur d'emploi ou employeur."
+
+msgid "Your account is deactivated by admin"
+msgstr "Votre compte est désactivé par l'administrateur"
+
+msgid "Your account might have been temporarily disabled. Please contact us for more details."
+msgstr "Votre compte a peut-être été temporairement désactivé.Veuillez contacter l'administrateur du site."
+
+msgid "You are successfully signup by facebook. For login credentials Please check your email account."
+msgstr "Inscription reussie via Facebook.Veuillez consulter votre messagerie pour vos identifiants de connexion."
+
+msgid "First Name is required field."
+msgstr "Le prénom est obligatoire."
+
+msgid "Last Name is required field."
+msgstr "Le nom de famille est obligatoire."
+
+msgid "Email is required field."
+msgstr "L'adresse email obligatoire"
+
+msgid "Email Not Valid."
+msgstr "Email non valide."
+
+msgid "Email already exists."
+msgstr "Cette adresse email existe déjà."
+
+msgid "Password is required field."
+msgstr "Le mot de passe est obligatoire."
+
+msgid "Password must be at least 8 characters."
+msgstr "Le mot de passe doit contenir au moins 8 caractères."
+
+msgid "Confirm  Password is required field."
+msgstr "Confirmer le mot de passe est obligatoire."
+
+msgid "Password and confirm password mismatch."
+msgstr "Mot de passe et confirme la non-concordance du mot de passe."
+
+msgid "Please enter security code."
+msgstr "Veuillez entrer le code de sécurité."
+
+msgid "Please enter correct security code."
+msgstr "Veuillez entrer le code de sécurité correct."
+
+msgid "Your account is successfully created.Please check your email for activation link. Thank you!"
+msgstr "Votre compte a été créé avec succès. Veuillez vérifier votre adresse email pour le lien d'activation.Merci de votre confiance!"
+
+msgid "Your account has been activated successfully."
+msgstr "Votre compte a été activé avec succès."
+
+msgid "You are already login with other account. Please logout first to activate your another account!"
+msgstr "Vous êtes déjà connecté avec un autre compte. Veuillez d'abord vous déconnecter pour activer ce compte!"
+
+msgid "You have already used this activation link!"
+msgstr "Vous avez déjà utilisé ce lien d'activation!"
+
+msgid "Please enter your email address."
+msgstr "Veuillez entrer votre adresse e-mail."
+
+msgid "Please enter valid email address."
+msgstr "Veuillez entrer une adresse email valide."
+
+msgid "A link to reset your password has been sent to your email address"
+msgstr "Un lien pour réinitialiser votre mot de passe a été envoyé à votre adresse email"
+
+msgid "Your email is not registered with"
+msgstr "Votre email n'est pas enregistré avec"
+
+msgid "Please enter correct email or register on"
+msgstr "S'il vous plaît entrer le bon email ou vous inscrire sur"
+
+msgid "Please check your mail for activation link to activate your account."
+msgstr "S'il vous plaît vérifier votre messagerie pour le lien d'activation de votre compte."
+
+msgid "Email or password is incorrect, please try again."
+msgstr "Email ou mot de passe incorrect, veuillez réessayer."
+
+msgid "Please enter your password."
+msgstr "S'il vous plait entrez votre mot de passe."
+
+msgid "Invalid email/password or you have not registered as a jobseeker. you have five more attempts."
+msgstr "Email / mot de passe invalide ou vous n'êtes pas enregistré en tant que candidat. vous avez cinq autres tentatives."
+
+msgid "Invalid email/password or you have not registered as a jobseeker. you have four more attempts."
+msgstr "Email / mot de passe invalide ou vous n'êtes pas enregistré en tant que candidat. vous avez quatre autres tentatives."
+
+msgid "Invalid email/password or you have not registered as a jobseeker. you have three more attempts."
+msgstr "Email / mot de passe invalide ou vous n'êtes pas enregistré en tant que candidat. vous avez trois autres tentatives."
+
+msgid "Invalid email/password or you have not registered as a jobseeker. you have two more attempts."
+msgstr "Email / mot de passe invalide ou vous n'êtes pas enregistré en tant que candidat. vous avez deux autres tentatives."
+
+msgid "Invalid email/password or you have not registered as a jobseeker. you have one more attempts."
+msgstr "Email / mot de passe invalide ou vous n'êtes pas enregistré en tant que candidat. vous avez encore une tentative."
+
+msgid "Invalid email/password or you have not registered as a jobseeker."
+msgstr "Email / mot de passe invalide ou vous n'êtes pas enregistré en tant que candidat."
+
+msgid "Employer Login"
+msgstr "Login recruteur"
+
+msgid "Invalid email/password or you have not registered as an employer. you have four more attempts."
+msgstr "Email / mot de passe invalide ou vous n'êtes pas enregistré en tant que recruteur. vous avez quatre autres tentatives."
+
+msgid "Invalid email/password or you have not registered as an employer. you have five more attempts."
+msgstr "Email / mot de passe invalide ou vous n'êtes pas enregistré en tant que recruteur. vous avez cinq autres tentatives."
+
+msgid "Invalid email/password or you have not registered as an employer. you have three more attempts."
+msgstr "Email / mot de passe invalide ou vous n'êtes pas enregistré en tant que recruteur. vous avez trois autres tentatives."
+
+msgid "Invalid email/password or you have not registered as an employer. you have two more attempts."
+msgstr "Email / mot de passe invalide ou vous n'êtes pas enregistré en tant que recruteur. vous avez deux autres tentatives."
+
+msgid "Invalid email/password or you have not registered as an employer. you have one more attempts."
+msgstr "Email / mot de passe invalide ou vous n'êtes pas enregistré en tant que recruteur. vous avez encore une tentative."
+
+msgid "Invalid email/password or you have not registered as an employer."
+msgstr "Email / mot de passe invalide ou vous n'êtes pas enregistré en tant que recruteur."
+
+msgid "My profile"
+msgstr "Mon profil"
+
+msgid "Edit Profile"
+msgstr "Modifier le profil"
+
+msgid "Company name is required field."
+msgstr "Le nom de l'entreprise est obligatoire."
+
+msgid "Company profile is required field."
+msgstr "Le profil de l'entreprise est obligatoire."
+
+msgid "Position is required field."
+msgstr "Ce champ est obligatoire."
+
+msgid "Address  is required field."
+msgstr "L'adresse est obligatoire."
+
+msgid "Location is required field."
+msgstr "Ce champ est obligatoire."
+
+msgid "Contact number is required field."
+msgstr "Le numéro de contact est obligatoire."
+
+msgid "Company number is required field."
+msgstr "Le numéro de l'entreprise est obligatoire."
+
+msgid "Profile details updated successfully."
+msgstr "Détails du profil mis à jour avec succès."
+
+msgid "Change Password"
+msgstr "Changer le mot de passe"
+
+msgid "Old Password is required field."
+msgstr "Ancien mot de passe obligatoire."
+
+msgid "New Password is required field."
+msgstr "Le nouveau mot de passe est obligatoire."
+
+msgid "Password must be at least 8 characters."
+msgstr "Mot de passe doit contenir au moins 8 caractères."
+
+msgid "Confirm Password is required field."
+msgstr "Confirmer le mot de passe est obligatoire."
+
+msgid "Old Password is not correct."
+msgstr "L'ancien mot de passe n'est pas correct."
+
+msgid "You cannot put your old password for the new password"
+msgstr "Vous ne pouvez pas réutiliser vore ancien mot de passe en tant que nouveau mot de passe"
+
+msgid "New Password and Confirm Password mismatch."
+msgstr "Non-concordance du nouveau mot de passe et du mot de passe."
+
+msgid "Your Password has been changed successfully."
+msgstr "Votre mot de passe a été changé avec succès."
+
+msgid "Image deleted successfully."
+msgstr "Image supprimée avec succès."
+
+msgid "Logout successfully."
+msgstr "Deconnexion avec succès."
+
+msgid "Forgot Password"
+msgstr "Mot de passe oublié"
+
+msgid "A link to reset your password was sent to your email address"
+msgstr "Un lien pour réinitialiser votre mot de passe a été envoyé à votre adresse email"
+
+msgid "Reset Password"
+msgstr "réinitialiser le mot de passe"
+
+msgid "New Password must be at least 8 characters."
+msgstr "Le nouveau mot de passe doit comporter au moins 8 caractères."
+
+msgid "Password is reset successfully. Please Login"
+msgstr "Mot de passe réinitialisé avec succès. Veuillez vous connecter"
+
+msgid "You have already use this link!"
+msgstr "Vous avez déjà utilisé ce lien!"
+
+msgid "Upload Photo"
+msgstr "Envoyer la photo"
+
+msgid "Image is required field."
+msgstr "L'image est obligatoire"
+
+msgid "Max file size upload is"
+msgstr "Taille maximale du fichier téléchargé"
+
+msgid "Not Valid Extention."
+msgstr "Extension non valide."
+
+msgid "Image file not valid."
+msgstr "Fichier image non valide."
+
+msgid "Images size must be bigger than  250 X 250 pixels."
+msgstr "La taille des images doit être supérieure à 250 X 250 pixels."
+
+msgid "Your Image has been Uploaded successfully."
+msgstr "Votre image a été téléchargée avec succès."
+
+msgid "User name is required field."
+msgstr "Le nom d'utilisateur est obligatoire."
+
+msgid "Message is required field."
+msgstr "Le message est obligatoire."
+
+msgid "Your feedback successfully sent."
+msgstr "Vos commentaires ont été envoyés avec succès."
+
+msgid "Linkedin Login"
+msgstr "Login Linkedin"
+
+msgid "Please register first on site."
+msgstr "Veuillez déjà vous inscrire sur le site."
+
+msgid "Peoples having starting alphabetically"
+msgstr "Candidats par ordre alphabétique"
+
+msgid "View Jobs having starting alphabetically"
+msgstr "Emplois par ordre alphabétique"
+
+msgid "Companies profiles having starting alphabetically"
+msgstr "Entreprises par ordre alphabétique"
+
+msgid "already have subscribed job alert for this search"
+msgstr "Vous avez déjà déjà enregistré une alerte emploi pour cette recherche"
+
+msgid "Please check your email we have sent a confirmation message"
+msgstr "S'il vous plaît vérifier votre email, nous avons envoyé un message de confirmation"
+
+msgid "Click on the link in this email to start receiving your job alerts. If you dont see it within a few minutes, please check your spam folder."
+msgstr "Cliquez sur le lien dans cet e-mail pour recevoir vos alertes d'emploi. Si vous ne le voyez pas dans les minutes qui suivent, vérifiez vos spams."
+
+msgid "Your job alert has been activated successfully."
+msgstr "Votre alerte a été activée avec succès."
+
+msgid "You have already used this link!"
+msgstr "Vous avez déjà utilisé ce lien!"
+
+msgid "Create Job"
+msgstr "Publier une offre d'emploi"
+
+msgid "Job title is required field."
+msgstr "Le titre du poste est obligatoire"
+
+msgid "Category is required field."
+msgstr "La catégorie est obligatoire."
+
+msgid "Job description is required field."
+msgstr "La description du poste est obligatoire."
+
+msgid "Work type is required field."
+msgstr "Le type de contrat est obligatoire."
+
+msgid "Contact name is required field."
+msgstr "Le nom du contact est obligatoire."
+
+msgid "Experience is required field."
+msgstr "Expérience requise"
+
+msgid "Annual Salary is required field."
+msgstr "Le salaire annuel est obligatoire."
+
+msgid "Skill is required field."
+msgstr "La compétence est obligatoire."
+
+msgid "Designation is required field."
+msgstr "Le métier est obligatoire"
+
+msgid "Max file size upload is 2MB."
+msgstr "La taille maximale de téléchargement de fichier est de 2 Mo."
+
+msgid "Your job posted successfully."
+msgstr "Job publié avec succès."
+
+msgid "Manage Jobs"
+msgstr "Gérer les offres d'emploi"
+
+msgid "Edit Job"
+msgstr "Modifier l'offre d'emploi"
+
+msgid "Job Details"
+msgstr "Détails du poste"
+
+msgid "Email sent successfully."
+msgstr "Email envoyé avec succès."
+
+msgid "Job details deleted successfully."
+msgstr "Détails supprimés avec succès."
+
+msgid "Job deactivated successfully."
+msgstr "Job désactivé avec succès."
+
+msgid "Job activated successfully."
+msgstr "Job activé avec succès."
+
+msgid "Job closed successfully."
+msgstr "Job fermé avec succès."
+
+msgid "Jobs List"
+msgstr "Liste des offres"
+
+msgid "Apply Job"
+msgstr "Postuler à l'offre"
+
+msgid "You already applied for this job."
+msgstr "Vous avez déjà postulé pour ce poste."
+
+msgid "Your job application is successfully posted. We will contact you soon."
+msgstr "Votre candidature est bien reçue. Nous vous contacterons bientôt."
+
+msgid "Invalid URL."
+msgstr "URL invalide."
+
+msgid "You already saved this job."
+msgstr "Vous avez déjà enregistré ce job."
+
+msgid "Job added in saved Jobs list"
+msgstr "Job ajouté dans la liste des jobs enregistrés"
+
+msgid "Short List"
+msgstr "Short List"
+
+msgid "Job deleted successfully."
+msgstr "Le poste a été supprimé avec succès."
+
+msgid "Candidate Details"
+msgstr "Détails du candidat"
+
+msgid "Applied Jobs"
+msgstr "Emplois postulés"
+
+msgid "Purchase Membership Plan"
+msgstr "Abonnement"
+
+msgid "Payment Process"
+msgstr "Processus de paiement"
+
+msgid "Plan Name"
+msgstr "Nom de l'abonnement"
+
+msgid "Amount"
+msgstr "Montant"
+
+msgid "Transaction ID"
+msgstr "Identifiant de transaction"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "You have successfully completed payment for your membership plan."
+msgstr "Paiement de l'abonnement effectué avec succès."
+
+msgid "You have successfully completed payment, so your plan automatically activated once PayPal confirmed your payment transaction."
+msgstr "Le paiement de l'abonnement a été effectué avec succès et sera actif sous peu."
+
+msgid "Sorry, your payment could not be completed, please try again"
+msgstr "Désolé, votre paiement n'a pas pu être effectué, veuillez réessayer"
+
+msgid "Payment History"
+msgstr "historique de paiement"
+
+msgid "Contact Us"
+msgstr "Contactez nous"
+
+msgid "Name is required field."
+msgstr "Le nom est un champ obligatoire."
+
+msgid "Email Address is not valid."
+msgstr "L'adresse email n'est pas valide."
+
+msgid "Email Address is required field."
+msgstr "Adresse e-mail est un champ obligatoire."
+
+msgid "Subject is required field."
+msgstr "Le sujet est un champ obligatoire."
+
+msgid "Message is required field."
+msgstr "Le message est obligatoire."
+
+msgid "Please Enter security code."
+msgstr "Veuillez entrer le code de sécurité."
+
+msgid "Please Enter correct security code."
+msgstr "Veuillez entrer le code de sécurité correct."
+
+msgid "Your enquiry has been successfully sent to us!"
+msgstr "Votre demande nous a été envoyée avec succès!"
+
+msgid "Status changed successfully."
+msgstr "Statut changé avec succès."
+
+msgid "Page not found"
+msgstr "Page non trouvée"
+
+msgid "Sign Up"
+msgstr "S'inscrire"
+
+msgid "Special characters and spaces are not allowed in companyname is not valid."
+msgstr "Les caractères spéciaux et les espaces ne sont pas autorisés dans le nom de l'entreprise."
+
+msgid "Company name already exists."
+msgstr "Ce nom d'entreprise existe déjà."
+
+msgid "Your account is successfully created. Please check your email for activation link. Thank you!"
+msgstr "Votre compte a été créé avec succès. S'il vous plaît vérifier votre email pour le lien d'activation. Merci de votre confiance!"
+
+msgid "Login"
+msgstr "S'identifier"
+
+msgid "Please check you mail for activation link to activate your account."
+msgstr "S'il vous plaît vérifier votre messagerie pour le lien d'activation de votre compte."
+
+msgid "Invalid email and/or password. you have five more attempts."
+msgstr "E-mail et / ou mot de passe invalide. vous avez cinq autres tentatives."
+
+msgid "Invalid email and/or password."
+msgstr "E-mail et / ou mot de passe invalide."
+
+msgid "Enter Valid Phone number."
+msgstr "Entrez un numéro de téléphone valide."
+
+msgid "Cover letter"
+msgstr "Lettre de motivation"
+
+msgid "description is required field."
+msgstr "la description est obligatoire"
+
+msgid "Your account is now complete, Happy job searching."
+msgstr "Votre compte est maintenant complet, Bonne recherche d'emploi."
+
+msgid "Profile Image deleted successfully."
+msgstr "Image de profil supprimée avec succès."
+
+msgid "Email address you enter not found in our database, please enter correct email address."
+msgstr "L'adresse email que vous avez renseigné ne figure pas dans notre base de données, veuillez entrer une adresse email correcte."
+
+msgid "Profile image is required field."
+msgstr "La photo de profil est un champ obligatoire."
+
+msgid "Profile Image file not valid."
+msgstr "Photo de profil non valide."
+
+msgid "Profile Images size must be bigger than  250 X 250 pixels."
+msgstr "La taille des images de profil doit être supérieure à 250 X 250 pixels."
+
+msgid "Certificate copy is required field."
+msgstr "La copie du certificat est obligatoire."
+
+msgid "Jobseeker List"
+msgstr "Liste des candidats"
+
+msgid "Jobseeker Profile"
+msgstr "Profil Candidat"
+
+msgid "Add To Favorite"
+msgstr "Ajouter aux Favoris"
+
+msgid "Favorite Candidate List"
+msgstr "Liste de candidats favoris"
+
+msgid "Favorite Jobseeker deleted successfully."
+msgstr "Le candidat favori a été supprimé avec succès."
+
+msgid "Edit Education"
+msgstr "Modifier la formation"
+
+msgid "Education information updated successfully."
+msgstr "Formation mises à jour avec succès."
+
+msgid "Edit Experience"
+msgstr "Modifier l'expérience"
+
+msgid "Industry is required field."
+msgstr "L'industrie est obligatoire"
+
+msgid "Role is required field."
+msgstr "La fonction est un champ obligatoire."
+
+msgid "to month must be greater than from month in same year"
+msgstr "au mois doit être supérieur au mois de la même année"
+
+msgid "Experience information updated successfully."
+msgstr "Expérience mise à jour avec succès."
+
+msgid "Blog Detail"
+msgstr "Détail du blog"
+
+msgid "Blog"
+msgstr "Blog"
+
+msgid "Alert list"
+msgstr "Liste d'alertes"
+
+msgid "Alert Add"
+msgstr "Ajouter une alerte"
+
+msgid "Please select locations first."
+msgstr "Veuillez sélectionner la localisation en premier."
+
+msgid "Please select designation."
+msgstr "Veuillez sélectionner un métier."
+
+msgid "Alert saved. You will receive an alert when jobs are created and match your criteria."
+msgstr "Alerte enregistrée. Vous recevrez une notification lorsque des emplois correspondant à vos critères seront publiés."
+
+msgid "Edit Alert"
+msgstr "Modifier une alerte"
+
+msgid "Alert details deleted successfully."
+msgstr "Détails des alertes supprimés avec succès."
+
+msgid "Activation email send to your email id."
+msgstr "Email d'activation envoyé dans votre messagerie."
+
+msgid "Your job posted successfully and automatically activated once PayPal confirmed your payment transaction."
+msgstr "Job publié avec succès et automatiquement activé une fois le paiement confirmé et validé."
+
+msgid "Sorry, your payment could not be completed, please try again"
+msgstr "Désolé, votre paiement n'a pas pu être effectué, veuillez réessayer"
+
+msgid "You have sent the email to the candidate successfully."
+msgstr "Vous avez envoyé l'e-mail au candidat avec succès."
+
+msgid "You have sent the email to the employer successfully."
+msgstr "Vous avez envoyé l'e-mail à l'employeur avec succès."
+
+msgid "Added to favorite list."
+msgstr "Ajouté à la liste de favoris."
+
+msgid "Your account has been deleted successfully."
+msgstr "Votre compte a été supprimé avec succès."
+
+msgid "Reason is required field."
+msgstr "La raison est obligatoire."
+
+msgid "Your video has been Uploaded successfully."
+msgstr "Votre vidéo a été téléversée avec succès."
+
+msgid "Video deleted successfully."
+msgstr "La vidéo a bien été supprimée."
+
+msgid "View educations"
+msgstr "Voir l'éducation"
+
+msgid "Education delete successfully."
+msgstr "Éducation supprimée avec succès."
+
+msgid "View experience"
+msgstr "Voir l'expérience"
+
+msgid "Experience delete successfully."
+msgstr "Expérience de suppression réussie."
+
+msgid "File not valid"
+msgstr "Fichier non valide"
+
+msgid "Jobseekers details saved successfully."
+msgstr "Détails des demandeurs d'emploi enregistrés avec succès."
+
+msgid "Something wrong in xls file."
+msgstr "Quelque chose ne va pas dans le fichier xls."

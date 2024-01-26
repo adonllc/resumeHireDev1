@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /download/
+Disallow: /cgi-bin/
+
+Sitemap: http://www.upliftjobs.com/sitemap.html

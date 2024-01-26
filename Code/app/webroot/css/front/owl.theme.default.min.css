@@ -1,0 +1,37 @@
+.owl-theme .owl-controls {  text-align:center; -webkit-tap-highlight-color:transparent }
+.owl-theme .owl-controls .owl-nav [class*=owl-] {font-size:0px;width:10px; height:16px;background:#d6d6d6;display:inline-block;cursor:pointer;}
+.owl-theme .owl-controls .owl-nav [class*=owl-]:hover {background:#869791;color:#fff;text-decoration:none}
+.owl-theme .owl-controls .owl-nav .disabled { opacity:.5; cursor:default }
+.owl-theme .owl-dots .owl-dot { display:inline-block; zoom:1; *display:inline}
+.owl-theme .owl-dots .owl-dot span { width:10px; height:10px; margin:5px 4px; background:#ccc; display:block; -webkit-backface-visibility:visible; 
+               -webkit-transition:opacity 200ms ease; -moz-transition:opacity 200ms ease; -ms-transition:opacity 200ms ease; -o-transition:opacity 200ms ease; 
+               transition:opacity 200ms ease; -webkit-border-radius:0%; -moz-border-radius:0%; border-radius:100% ; border: none}
+.owl-theme .owl-dots .owl-dot.active span { background:#ee2602; width: 15px; height: 15px;  }
+/*.owl-nav {bottom: 215px;position: relative;}*/
+.owl-dot { display:none !important; }
+.owl-nav {position: absolute;top: -45px; right:0;}
+
+/*-----------app_slider---------*/
+#logo_slider .owl-nav,
+#app_slider .owl-dot {display: none !important; }
+#logo_slider .owl-dot {display: inline-block !important;}
+#logo_slider.owl-theme .owl-dots .owl-dot span {width: 17px;height: 17px;margin: 5px 4px;background: #3b3b3b;border: 3px #c6cace solid;}
+#logo_slider.owl-theme .owl-dots .owl-dot.active span {background: #fc595b;width: 17px;height: 17px;border: 3px #fc595b solid;}
+#logo_slider .owl-dots {position: absolute;bottom: -50px;width: 100%;}
+
+
+/*-------------------pay_slider--------------------------*/
+@media only screen and (max-width:991px){
+#pay_slider2 .owl-dots {  bottom: -20px;}
+}
+@media only screen and (max-width:767px){
+.owl-theme .owl-dots .owl-dot span {}
+#pay_slider2 .owl-dots {  bottom: -15px;}
+}
+
+#client_says .owl-nav{ display: none}
+#client_says .owl-dot {display: inline-block !important;}
+
+
+
+

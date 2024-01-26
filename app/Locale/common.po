@@ -1,0 +1,14 @@
+msgid "Reply222222"
+msgstr "Répondre32323232"
+
+msgid "Reply Mail"
+msgstr "Répondre au message"
+
+msgid "to"
+msgstr "au"
+
+msgid "Unlimited"
+msgstr "Illimité"
+
+msgid "Jobseekers222"
+msgstr "Rechercher un candidat2222"

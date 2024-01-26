@@ -1,0 +1,92 @@
+msgid "Reply"
+msgstr "Reply"
+
+msgid "Reply Mail"
+msgstr "Reply Mail"
+
+msgid "to"
+msgstr "to"
+
+msgid "Unlimited"
+msgstr "Unlimited"
+
+msgid "Jobseekers"
+msgstr "Jobseekers"
+
+msgid "EXPERIENCE"
+msgstr "EXPERIENCE"
+
+msgid "EDUCATION SPECIALIZATION"
+msgstr "EDUCATION SPECIALIZATION"
+
+msgid "SKILLS"
+msgstr "SKILLS"
+
+msgid "Choose skills"
+msgstr "Choose skills"
+
+msgid "Cover Letter Title"
+msgstr "Cover Letter Title"
+
+msgid "Cover Letter"
+msgstr "Cover Letter"
+
+msgid "Delete Account"
+msgstr "Delete Account"
+
+msgid "Choose Designation"
+msgstr "Choose Designation"
+
+msgid "Favorite Candidates"
+msgstr "Favorite Candidates"
+
+msgid "Delete Your Account"
+msgstr "Delete Your Account"
+
+msgid "30 days unlimited job posting."
+msgstr "30 days unlimited job posting."
+
+msgid "Find the perfect candidate with JOB@HOME's premier online CV database."
+msgstr "Find the perfect candidate with JOB@HOME's premier online CV database."
+
+msgid "Unlimited CV downloads."
+msgstr "Unlimited CV downloads."
+
+msgid "Advertise your job at the jobseekers and get qualified answers the same day"
+msgstr "Advertise your job at the jobseekers and get qualified answers the same day"
+
+msgid "Legal assistance for hiring a foreign employee."
+msgstr "Legal assistance for hiring a foreign employee."
+
+msgid "Reason for leaving"
+msgstr "Reason for leaving"
+
+msgid "Delete account"
+msgstr "Delete account"
+
+msgid "Welcome"
+msgstr "Welcome"
+
+msgid "Welcome"
+msgstr "Welcome"
+
+msgid "Welcome"
+msgstr "Welcome"
+
+msgid "Welcome"
+msgstr "Welcome"
+
+msgid "Welcome"
+msgstr "Welcome"
+
+msgid "Welcome"
+msgstr "Welcome"
+
+msgid "Welcome"
+msgstr "Welcome"
+
+msgid "Welcome"
+msgstr "Welcome"
+
+msgid "Welcome"
+msgstr "Welcome"
